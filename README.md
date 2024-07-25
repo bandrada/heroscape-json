@@ -1,16 +1,15 @@
 # [WIP] HeroScape JSON
 
-Heroscape data in JSON format for use in Heroscape related apps.
+Heroscape data in JSON format for use in Heroscape related projects.
 
 ## Units
 ```
 {
   name        \\ Unit name
-  image       \\ Image name
   general     \\ General the unit falls under
   race        \\ Unit race
   type        \\ Squad or Hero
-  cardClass   \\ Unit class
+  class       \\ Unit class
   personality \\ Unit personality
   height      \\ Unit height
   life        \\ Unit hit points
@@ -53,17 +52,3 @@ Heroscape data in JSON format for use in Heroscape related apps.
 }
 ```
 
-## Todo
-
- - [x] Add `units` JSON
- - [x] Add `sets` JSON
- - [x] Add `generals` JSON
- - [ ] Add `packs` JSON
- - [ ] Add `terrain` JSON
- - [ ] Add `glyphs` JSON
- - [ ] Generate `unit` ids
- - [ ] Update `unit` set to match `set` name
- - [ ] Add `unit` spaces (`figures * hexes`)
- - [ ] Add `unit` species
- - [ ] Add `unit` planet
- - [ ] Add `unit` size

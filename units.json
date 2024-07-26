@@ -1,6 +1,5 @@
 [
 	{
-		"id": "",
         "name": "Marro Warriors",
 		"general": "utgar",
 		"race": "marro",
@@ -25,7 +24,6 @@
 					"Instead of attacking with all of the Marro Warriors, one at a time, roll the 20-sided die for each Marro Warrior in play. If you roll a 15 or higher, place a previously destroyed Marro Warrior on a same-level space adjacent to that Marro Warrior. Any Marro Warrior on a water space needs a 10 or higher to Water Clone. You may only Water Clone after you move."}]
 	},
 	{
-		"id": "",
         "name": "Deathwalker 9000",
 		"general": "utgar",
 		"race": "soulborg",
@@ -53,7 +51,6 @@
 				"description": "Any Soulborg Guards adjacent to Deathwalker add 2 spaces to their range."}]
 	},
 	{
-		"id": "",
         "name": "Izumi Samurai",
 		"general": "einar",
 		"race": "human",
@@ -77,7 +74,6 @@
 					"When rolling defense dice against a normal attack from an adjacent attacking figure, all excess shields count as unblockable hits on the attacking figure. This power does not work against other Samurai."}]
 	},
 	{
-		"id": "",
         "name": "Sgt. Drake Alexander (1)",
 		"general": "jandar",
 		"race": "human",
@@ -105,7 +101,6 @@
 					"Instead of Sgt. Drake Alexander's normal move, he may move only one space. This space may be up to 25 levels higher. When using the Grapple Gun, all engagement rules still apply."}]
 	},
 	{
-		"id": "",
         "name": "Syvarris",
 		"general": "ullar",
 		"race": "elf",
@@ -129,7 +124,6 @@
 				"description": "When Syvarris attacks, he may attack one additional time."}]
 	},
 	{
-		"id": "",
         "name": "Krav Maga Agents",
 		"general": "vydar",
 		"race": "human",
@@ -154,7 +148,6 @@
 					"When a Krav Maga Agent rolls defense dice against an attacking figure who is not adjacent, one shield will block all damage."}]
 	},
 	{
-		"id": "",
         "name": "Tarn Viking Warriors",
 		"general": "jandar",
 		"race": "human",
@@ -179,7 +172,6 @@
 					"After moving and before attacking, roll the 20-sided die. If you roll a 15 or higher, you may move all Tarn Viking Warriors again."}]
 	},
 	{
-		"id": "",
         "name": "Agent Carr",
 		"general": "vydar",
 		"race": "human",
@@ -209,7 +201,6 @@
 				"description": "Agent Carr is never attacked when leaving an engagement."}]
 	},
 	{
-		"id": "",
         "name": "Zettian Guards",
 		"general": "utgar",
 		"race": "soulborg",
@@ -234,7 +225,6 @@
 					"When attacking, if your second Zettian Guard attacks the same figure as the first Zettian Guard, add one attack die to the second Zettian Guard's attack."}]
 	},
 	{
-		"id": "",
         "name": "Airborne Elite",
 		"general": "jandar",
 		"race": "human",
@@ -263,7 +253,6 @@
 					"Airborne Elite do not start the game on the battlefield. At the start of each round, before you place Order Markers, roll the 20-sided die. If you roll a 13 or higher you may place all 4 Airborne Elite figures on any empty spaces. You cannot place them adjacent to eachother or other figures or on glyphs."}]
 	},
 	{
-		"id": "",
         "name": "Finn the Viking Champion",
 		"general": "jandar",
 		"race": "human",
@@ -291,7 +280,6 @@
 					"When Finn is destroyed, place this figure on any unique Army Card. Finn's Spirit adds 1 to the normal attack number on that card."}]
 	},
 	{
-		"id": "",
         "name": "Thorgrim the Viking Champion",
 		"general": "jandar",
 		"race": "human",
@@ -319,7 +307,6 @@
 				"description": "All friendly figures adjacent to Thorgrim add 1 die their defense."}]
 	},
 	{
-		"id": "",
         "name": "Raelin the Kyrie Warrior (1)",
 		"general": "jandar",
 		"race": "kyrie",
@@ -348,7 +335,6 @@
 					"When counting spaces for Raelin's movement, ignore elevations. Raelin may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Raelin starts to fly, if she is engaged she will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Mimring",
 		"general": "utgar",
 		"race": "dragon",
@@ -377,7 +363,6 @@
 					"When counting spaces for Mimring's movement, ignore elevations. Mimring may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Mimring starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Ne-gok-sa",
 		"general": "utgar",
 		"race": "marro",
@@ -402,7 +387,6 @@
 					"After moving and before attacking, you may choose any unique figure adjacent to Ne-gok-sa. Roll the 20-sided die. If you roll a 20, take control of the chosen figure and that figure's Army Card. You now control that Army Card and all figures on it. Remove any Order Markers on this card. If Ne-gok-sa is destroyed, you retain control of any previously Mind Shackled Army Cards."}]
 	},
 	{
-		"id": "",
         "name": "Grimnak",
 		"general": "utgar",
 		"race": "orc",
@@ -430,7 +414,6 @@
 					"All friendly Orc Warriors adjacent to Grimnak roll an additional attack die and an additional defense die."}]
 	},
 	{
-		"id": "",
         "name": "Omnicron Snipers",
 		"general": "jandar",
 		"race": "soulborg",
@@ -454,7 +437,6 @@
 				"description": "When attacking with Omnicron Snipers, any skull rolled counts as one additional hit."}]
 	},
 	{
-		"id": "",
         "name": "Taelord the Kyrie Warrior",
 		"general": "utgar",
 		"race": "kyrie",
@@ -483,7 +465,6 @@
 					"When counting spaces for Taelord’s movement, ignore elevations. Taelord may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Taelord starts to fly, if he is engaged he will not take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Kelda the Kyrie Warrior",
 		"general": "jandar",
 		"race": "kyrie",
@@ -512,7 +493,6 @@
 					"When counting spaces for Kelda's movement, ignore elevations. Kelda may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Kelda starts to fly, if she is engaged she will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Marcus Decimus Gallus",
 		"general": "einar",
 		"race": "human",
@@ -539,7 +519,6 @@
 				"description": "All friendly Soldiers adjacent to Marcus Decimus Gallus receive an additional attack die."}]
 	},
 	{
-		"id": "",
         "name": "Venoc Warlord",
 		"general": "ullar",
 		"race": "viper",
@@ -569,7 +548,6 @@
 				"description": "Venoc Warlord does not have to stop his movement when entering water spaces."}]
 	},
 	{
-		"id": "",
         "name": "Tornak",
 		"general": "utgar",
 		"race": "orc",
@@ -597,7 +575,6 @@
 					"All friendly Orc Warriors adjacent to Tornak receive an additional attack die and an additional defense die."}]
 	},
 	{
-		"id": "",
         "name": "Venoc Vipers",
 		"general": "ullar",
 		"race": "viper",
@@ -625,7 +602,6 @@
 					"After you take a turn with Venoc Vipers; roll the 20-sided die. If you roll a 16 or higher you may take another turn with Venoc Vipers."}]
 	},
 	{
-		"id": "",
         "name": "Roman Legionnaires",
 		"general": "einar",
 		"race": "human",
@@ -654,7 +630,6 @@
 					"When defending with a Roman Legionnaire, add 1 defense die for each other adjacent Roman Legionnaire up to a maximum of +2 dice, for the Shield Wall power."}]
 	},
 	{
-		"id": "",
         "name": "Roman Archers",
 		"general": "einar",
 		"race": "human",
@@ -679,7 +654,6 @@
 					"Range 6. Attack 6. Three unengaged adjacent Roman Archers on the same level may combine their attacks and roll their attack dice as one attack. All Roman Archers in the Arrow Volley must have a clear line of sight on the one target."}]
 	},
 	{
-		"id": "",
         "name": "Arrow Gruts",
 		"general": "utgar",
 		"race": "orc",
@@ -706,7 +680,6 @@
 				"description": "Arrow Gruts are never attacked when leaving an engagement."}]
 	},
 	{
-		"id": "",
         "name": "Blade Gruts",
 		"general": "utgar",
 		"race": "orc",
@@ -734,7 +707,6 @@
 				"description": "Blade Gruts are never attacked when leaving an engagement."}]
 	},
 	{
-		"id": "",
         "name": "Khosumet the Darklord",
 		"general": "utgar",
 		"race": "wolf",
@@ -762,7 +734,6 @@
 				"description": "You may add 1 to your die roll when you roll for the Unleashed Fury power on any Army Card."}]
 	},
 	{
-		"id": "",
         "name": "Sir Denrick",
 		"general": "jandar",
 		"race": "human",
@@ -789,7 +760,6 @@
 				"description": "When Sir Denrick attacks huge figures, add 2 attack dice."}]
 	},
 	{
-		"id": "",
         "name": "Me-Burq-Sa",
 		"general": "utgar",
 		"race": "marro",
@@ -814,7 +784,6 @@
 					"After moving and before attacking, choose any small or medium figure within 6 clear sight spaces of Me-Burq-Sa. Roll the 20-sided die. If you roll a 16 or higher, the chosen figure cannot roll any defense dice if attacked by Me-Burq-Sa this turn."}]
 	},
 	{
-		"id": "",
         "name": "Krug",
 		"general": "utgar",
 		"race": "troll",
@@ -841,7 +810,6 @@
 				"description": "When Krug attacks, he may attack one additional time."}]
 	},
 	{
-		"id": "",
         "name": "Minions of Utgar",
 		"general": "utgar",
 		"race": "kyrie",
@@ -873,7 +841,6 @@
 					"When counting spaces for Minion of Utgar's movement, ignore elevations. Minions of Utgar may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Minions of Utgar starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Marro Drones",
 		"general": "utgar",
 		"race": "marro",
@@ -898,7 +865,6 @@
 					"Before moving Marro Drones, roll the 20-sided die. If you roll 1 - 12, you may move and attack with up to 3 Marro Drones you control. If you roll 13 - 16, you may move and attack with up to 6 Marro Drones you control. If you roll 17 - 20, you may move and attack with up to 9 Marro Drones you control."}]
 	},
 	{
-		"id": "",
         "name": "Knights of Weston",
 		"general": "jandar",
 		"race": "human",
@@ -926,7 +892,6 @@
 				"description": "Knights of Weston roll one additional die against each figure leaving an engagement with him."}]
 	},
 	{
-		"id": "",
         "name": "Swog Rider",
 		"general": "utgar",
 		"race": "orc",
@@ -954,7 +919,6 @@
 					"All friendly Orc Archers adjacent to a Swog Rider receive an additional attack die and an additional defense die."}]
 	},
 	{
-		"id": "",
         "name": "4th Massachusetts Line",
 		"general": "jandar",
 		"race": "human",
@@ -982,7 +946,6 @@
 					"If every Army Card you control has a valiant personality, each soldier in the 4th Massachusetts Line recieves 1 additional defense die."}]
 	},
 	{
-		"id": "",
         "name": "Anubian Wolves",
 		"general": "utgar",
 		"race": "wolves",
@@ -1007,7 +970,6 @@
 					"Before moving, roll the 20-sided die. If you roll a 1, choose an Anubian Wolf you control and destroy it. If you roll a 2 - 6, add 1 to the attack value on this card. If you roll a 7 - 11, add 2 to the attack value on this card. If you roll a 12 - 15, add 3 to the attack value on this card. If you roll a 16 - 19, add 4 to the attack value on this card. If you roll a 20, add 8 to the attack value on this card."}]
 	},
 	{
-		"id": "",
         "name": "Saylind the Kyrie Warrior",
 		"general": "ullar",
 		"race": "kyrie",
@@ -1036,7 +998,6 @@
 					"When counting spaces for Saylind's movement, ignore elevations. Saylind may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Saylind starts to fly, if she is engaged she will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Johnny 'Shotgun' Sullivan",
 		"general": "jandar",
 		"race": "human",
@@ -1061,7 +1022,6 @@
 					"Range 5. Attack 3. Choose a figure to attack. Any figures adjacent to the chosen figure are also affected by the Shotgun Blast Special Attack. Johnny only needs a clear sight shot at the chosen figure. Roll attack dice once for all affected figures. Each figure rolls defense dice separately. Johnny cannot be affected by his own Shotgun Blast Special Attack."}]
 	},
 	{
-		"id": "",
         "name": "Deathwalker 7000",
 		"general": "utgar",
 		"race": "soulborg",
@@ -1090,7 +1050,6 @@
 					"When Deathwalker 7000 rolls defense dice against an attacking figure who is not adjacent, one shield will block all damage."}]
 	},
 	{
-		"id": "",
         "name": "Concan the Kyrie Warrior",
 		"general": "jandar",
 		"race": "kyrie",
@@ -1119,7 +1078,6 @@
 					"When counting spaces for Concan's movement, ignore elevations. Concan may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Concon starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Alastair MacDirk",
 		"general": "jandar",
 		"race": "human",
@@ -1144,7 +1102,6 @@
 					"After taking a turn with Alastair MacDirk, you may place a wound marker on Alastair MacDirk and take another turn with him.  You may only use this power once during a round."}]
 	},
 	{
-		"id": "",
         "name": "Sentinels of Jandar",
 		"general": "jandar",
 		"race": "kyrie",
@@ -1172,7 +1129,6 @@
 					"When counting spaces for Sentinels of Jandar's movement, ignore elevations. Sentinels of Jandar may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Sentinels of Jandar starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Marrden Hounds",
 		"general": "utgar",
 		"race": "wulsinu",
@@ -1201,7 +1157,6 @@
 					"After moving and before attacking, you must roll the 20-sided die once for each figure adjacent to any Marrden Hounds you control. If you roll a 16 or higher, that figure receives a wound. Soulborgs and Wulsinu are not affected by the Marro Plague."}]
 	},
 	{
-		"id": "",
         "name": "Gorillinators",
 		"general": "vydar",
 		"race": "primadon",
@@ -1226,7 +1181,6 @@
 					"When rolling defense dice against a normal attack, Gorillinators always add one automatic shield to whatever is rolled."}]
 	},
 	{
-		"id": "",
         "name": "Microcorp Agents",
 		"general": "vydar",
 		"race": "human",
@@ -1258,7 +1212,6 @@
 				"description": "When a Microcorp Agent is attacking with a height advantage, he rolls an additional attack die"}]
 	},
 	{
-		"id": "",
         "name": "MacDirk Warriors",
 		"general": "jandar",
 		"race": "human",
@@ -1287,7 +1240,6 @@
 					"Before taking a turn with the MacDirk Warriors, you may first take a turn with any Human Champion you control."}]
 	},
 	{
-		"id": "",
         "name": "Shaolin Monks",
 		"general": "ullar",
 		"race": "human",
@@ -1315,7 +1267,6 @@
 					"Instead of their normal move, any or all Shaolin Monks may Stealth Leap. Stealth Leap has a move 3. When counting spaces for a Monk's leaping movement, ignore elevations. A Monk may leap over water without stopping, pass over figures without becoming engaged, and leap over obstacles such as ruins. A Monk may not leap more than 12 levels up or down in a single leap. If a Monk is engaged when he starts to leap, he does not take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Major X17",
 		"general": "vydar",
 		"race": "soulborg",
@@ -1344,7 +1295,6 @@
 					"When rollling defense dice against a normal attack from an adjacent figure, Major X17 adds 4 dice."}]
 	},
 	{
-		"id": "",
         "name": "Valguard",
 		"general": "einar",
 		"race": "human",
@@ -1372,7 +1322,6 @@
 				"description": "Add 1 to your die roll when you roll for the Berserker Charge power on any Army Card."}]
 	},
 	{
-		"id": "",
         "name": "Parmenio",
 		"general": "einar",
 		"race": "human",
@@ -1401,7 +1350,6 @@
 					"When an adjacent Sacred Band figure receives one or more wounds, roll the 20-sided die before removing that figure. If you roll a 15 or higher, ignore any wounds."}]
 	},
 	{
-		"id": "",
         "name": "Morsbane",
 		"general": "ullar",
 		"race": "elf",
@@ -1426,7 +1374,6 @@
 					"Start the game with 3 brown(gold) Negation Markers on this card. At the end of the turn, if you have at least 1 Negation Marker on this card, you may choose any opponent's unique figure within 6 clear sight spaces of Morsbane. Roll the 20-sided die. If you roll a 1-15, nothing happens. If you roll a 16-19, place a Negation Marker on the chosen figure's Army Card. All of that figure's special powers are negated for the entire game. If you roll a 20, destroy the chosen figure."}]
 	},
 	{
-		"id": "",
         "name": "Sudema",
 		"general": "vydar",
 		"race": "undead",
@@ -1451,7 +1398,6 @@
 					"Instead of attacking, choose any figure within 4 clear sight spaces of Sudema. Roll the 20-sided die. If the chosen figure is a Squad figure and you roll a 7 or higher, destroy it. If the chosen figure if a Hero figure and you roll a 17 or higher, destroy the chosen Hero."}]
 	},
 	{
-		"id": "",
         "name": "James Murphy",
 		"general": "vydar",
 		"race": "human",
@@ -1476,7 +1422,6 @@
 					"Range 5. Attack 3. Choose a figure to attack. Any figures adjacent to the chosen figures are also affected by the Shotgun Blast Special Attack. James only needs a clear sight shot at the chosen figure. Roll attack dice once for all affected figures. Each figure rolls defense dice separately. James cannot be affected by his own Shotgun Blast Special Attack."}]
 	},
 	{
-		"id": "",
         "name": "Guilty McCreech",
 		"general": "einar",
 		"race": "human",
@@ -1500,7 +1445,6 @@
 				"description": "When Guilty McCreech attacks, he may attack one additional time."}]
 	},
 	{
-		"id": "",
         "name": "Deadeye Dan",
 		"general": "ullar",
 		"race": "human",
@@ -1529,7 +1473,6 @@
 					"Instead of attacking, you may choose any non-adjacent figure within 10 clear sight spaces of Deadeye Dan. Roll the 20-sided die. If you roll a 19 or 20, the chosen figure is destroyed. If you roll a 1-18, you missed. Deadeye Dan may not use this special power if he moved this turn."}]
 	},
 	{
-		"id": "",
         "name": "Tagawa Samurai",
 		"general": "einar",
 		"race": "human",
@@ -1558,7 +1501,6 @@
 					"For every opponent's figure a Tagawa Samurai destroys, place a purple Experience Marker on this card. When attacking with Tagawa Samurai, roll one additional attack die for each Experience Marker on this card. A maximum of 3 Experience Markers can be placed on this card."}]
 	},
 	{
-		"id": "",
         "name": "Aubrien Archers",
 		"general": "ullar",
 		"race": "elves",
@@ -1583,7 +1525,6 @@
 					"After you take a turn with the Aubrien Archers, roll the 20-sided die. If you roll 16 or higher, you may take another turn with the Aubrien Archers."}]
 	},
 	{
-		"id": "",
         "name": "Gladiatrons",
 		"general": "vydar",
 		"race": "soulborg",
@@ -1612,7 +1553,6 @@
 					"When rolling defense dice against a normal attack from an adjacent figure, a Gladiatron adds 1 die."}]
 	},
 	{
-		"id": "",
         "name": "Sacred Band",
 		"general": "einar",
 		"race": "human",
@@ -1641,7 +1581,6 @@
 					"If every Army Card you control has a Disciplined personality, each soldier in the Sacred Band receives 1 additional defense die."}]
 	},
 	{
-		"id": "",
         "name": "Armoc Vipers",
 		"general": "ullar",
 		"race": "viper",
@@ -1669,7 +1608,6 @@
 				"description": "Armoc Vipers do not have to stop their movement when entering water spaces."}]
 	},
 	{
-		"id": "",
         "name": "Brunak",
 		"general": "utgar",
 		"race": "trolticor",
@@ -1702,7 +1640,6 @@
 					"Brunak never rolls for molten lava damage or lava field damage and he does not have to stop in molten lava spaces"}]
 	},
 	{
-		"id": "",
         "name": "Charos",
 		"general": "ullar",
 		"race": "dragon",
@@ -1731,7 +1668,6 @@
 					"When counting spaces for Charos' movement, ignore elevation. Charos may fly over water without stopping. Charos may pass over figures without becoming engaged. Charos may fly over obstacles such as ruins. When Charos starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Deathwalker 8000",
 		"general": "utgar",
 		"race": "soulborg",
@@ -1756,7 +1692,6 @@
 					"Range 7. Attack 3. If Deathwalker's Rapid Fire Special Attack inflicts a wound, he may attack again with his Rapid Fire Special Attack. Deathwalker may continue attacking with his Rapid Fire Special Attack until he does not inflict a wound."}]
 	},
 	{
-		"id": "",
         "name": "Dund",
 		"general": "vydar",
 		"race": "doggin",
@@ -1781,7 +1716,6 @@
 					"Before moving, you may choose a figure within 5 clear sight spaces of Dünd. Roll the 20-sided die. If you roll a 15 or higher remove all order markers on the chosen figure's army card (or cards if your opponent has more than one common card for that figure)."}]
 	},
 	{
-		"id": "",
         "name": "Su-Bak-Na",
 		"general": "utgar",
 		"race": "marro",
@@ -1809,7 +1743,6 @@
 					"When counting spaces for Su-Bak-Na's movement ignore elevation. Su-Bak-Na may fly over water without stopping. Su-Bak-Na may pass over figures without becoming engaged. Su-Bak-Na may fly over obstacles such as ruins. When Su-Bak-Na starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Braxas",
 		"general": "vydar",
 		"race": "dragon",
@@ -1837,7 +1770,6 @@
 					"When counting spaces for Braxas' movement, ignore elevations. Braxas may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Braxas starts to fly, if she is engaged she will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Jotun",
 		"general": "ullar",
 		"race": "giant",
@@ -1865,7 +1797,6 @@
 					"After moving and before attacking, choose one small or medium non-flying figure adjacent to Jotun. Roll the 20-sided die. if you roll a 14 or higher, you may throw the figure by placing it on any empty space within 4 spaces of Jotun. The figure must land within clear sight of Jotun. After the figure is placed, roll the 20-sided die for throwing damage. If you roll an 11 or higher, the thrown figure receives 2 wounds. If the figure is thrown onto a level higher than the height of Jotun or onto water, do not roll for throwing damage. The thrown figure does not take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Major Q9",
 		"general": "vydar",
 		"race": "soulborg",
@@ -1890,7 +1821,6 @@
 					"Range 6. Attack 1, 2 or 3. Major Q9 starts each turn with 9 attack dice. Choose any figure within range and attack by rolling 1, 2 or 3 attack dice. Major Q9 may keep making special attacks with 1, 2 or 3 attack dice until he has rolled all 9 attack dice. Major Q9 may target the same or different figures with each attack."}]
 	},
 	{
-		"id": "",
         "name": "Nilfheim",
 		"general": "jandar",
 		"race": "dragon",
@@ -1918,7 +1848,6 @@
 					"When counting spaces for Nilfheim's movement, ignore elevations. Nilfheim may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Nilfheim starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Theracus",
 		"general": "ullar",
 		"race": "gryphillin",
@@ -1947,7 +1876,6 @@
 					"When counting spaces for Theracus's movement, ignore elevations. Theracus may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Theracus starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Gurei-Oni",
 		"general": "einar",
 		"race": "ogre",
@@ -1976,7 +1904,6 @@
 					"Range 1. Attack 3. Choose a figure to attack. You may also choose one figure adjacent to the targeted figured to be attacked by the Tetsubo Special Attack as well. Roll attack dice once for both figures. Each figure rolls defense dice separately."}]
 	},
 	{
-		"id": "",
         "name": "Sujoah",
 		"general": "aquilla",
 		"race": "insect",
@@ -2005,7 +1932,6 @@
 					"When counting spaces for Sujoah's movement, ignore elevations. Sujoah may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Sujoah starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Wo-Sa-Ga",
 		"general": "utgar",
 		"race": "marro",
@@ -2032,7 +1958,6 @@
 				"description": "Wo-Sa-Ga does not have to stop her movement when entering water spaces."}]
 	},
 	{
-		"id": "",
         "name": "Zelrig",
 		"general": "einar",
 		"race": "dragon",
@@ -2060,7 +1985,6 @@
 					"When counting spaces for Zelrig's movement, ignore elevations. Zelrig may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Zelrig starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Zetacron",
 		"general": "jandar",
 		"race": "soulborg",
@@ -2085,7 +2009,6 @@
 					"When attacking with Zetacron, each skull rolled counts for one additional hit. (ie: double the number of skulls rolled)"}]
 	},
 	{
-		"id": "",
         "name": "Raelin the Kyrie Warrior (2)",
 		"general": "jandar",
 		"race": "kyrie",
@@ -2117,7 +2040,6 @@
 					"When counting spaces for Raelin's movement, ignore elevations. Raelin may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Raelin starts to fly, if she is engaged she will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Sgt. Drake Alexander (2)",
 		"general": "jandar",
 		"race": "human",
@@ -2149,7 +2071,6 @@
 					"Range 5. Attack 3. Drake may not use Pistol Fire Special Attack to attack a figure who follows Jandar."}]
 	},
 	{
-		"id": "",
         "name": "Sonlen",
 		"general": "ullar",
 		"race": "elf",
@@ -2178,7 +2099,6 @@
 					"After moving and before attacking, you may choose any figure within 4 clear sight spaces of Sonlen. Roll the 20-sided die. If you roll a 15 or higher, the chosen figure receives one wound."}]
 	},
 	{
-		"id": "",
         "name": "Major Q10",
 		"general": "vydar",
 		"race": "soulborg",
@@ -2207,7 +2127,6 @@
 					"Range 4. Attack 4. Major Q10 may use this special attack 2 times in the same turn. Q10 may target the same figure or a different figure with each attack."}]
 	},
 	{
-		"id": "",
         "name": "Shiori",
 		"general": "einar",
 		"race": "human",
@@ -2239,7 +2158,6 @@
 					"Range 5. Attack: Special. If Shiori is attacking a small or medium figure, roll 3 attack dice for Shuriken Special Attack. If Shiori is attacking a figure of a different size or a destructible object, roll 2 attack dice for Shuriken Special Attack."}]
 	},
 	{
-		"id": "",
         "name": "Marro Drudge",
 		"general": "utgar",
 		"race": "marro",
@@ -2267,7 +2185,6 @@
 					"If a Marro Drudge ends its normal movement on a swamp water space, you may immediately place it on any empty same-level swamp water space within 5 spaces. If a Marro Drudge is engaged when it starts to tunnel, it will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Marro Hive",
 		"general": "utgar",
 		"race": "marro",
@@ -2295,7 +2212,6 @@
 					"After taking a turn with Marro Hive, you may roll the 20-sided die. if you roll a 13 or higher, you may place any previously destroyed common Marro Squad figure from your army on an empty space adjacent to Marro Hive."}]
 	},
 	{
-		"id": "",
         "name": "Marrden Nagrubs",
 		"general": "utgar",
 		"race": "nagrubs",
@@ -2323,7 +2239,6 @@
 				"description": "When moving up or down levels of terrain, Marrden Nagrubs may double their Height."}]
 	},
 	{
-		"id": "",
         "name": "Marro Stingers",
 		"general": "utgar",
 		"race": "marro",
@@ -2348,7 +2263,6 @@
 					"After moving and before attacking, you may roll the 20-sided die. If you roll a 1-4, you must destroy a Marro Stinger you control and you cannot attack this turn. If you roll a 5-9, add 0 to the attack value of this card. If you roll a 10 or higher, add 1 to the attack value of this card."}]
 	},
 	{
-		"id": "",
         "name": "Tor-Kul-Na",
 		"general": "utgar",
 		"race": "marro",
@@ -2372,7 +2286,6 @@
 					"At any point while moving, Tor-Kul-Na may choose a small or medium figure that is adjacent, on the same level, and on a space where Tor-Kul-Na may end his movement. Roll the 20-sided die. If you roll 1-7, the figure is safe and Tor-Kul-Na's movement ends. If you roll 8-20, the chosen figure receives one wound. If the wound destroys the figure, move Tor-Kul-Na onto the space occupied, and you may continue Tor-Kul-Na's movement. If the chosen figure is not destroyed, Tor-Kul-Na's movement ends. Tor-Kul-Na must be on a space where he can end movement each time he uses this power."}]
 	},
 	{
-		"id": "",
         "name": "Ana Karithon",
 		"general": "einar",
 		"race": "human",
@@ -2404,7 +2317,6 @@
 					"After revealing an Order Marker on a wounded small or medium Hero figure you control that is adjacent to Ana Karithon, and before using any other special powers on any Army Card or Treasure Glyph, you may first roll the 20-sided die. If you roll a 1 - 12 nothing happens. If you roll a 13 or higher, remove up to 2 wound markers from that Hero's Army Card."}]
 	},
 	{
-		"id": "",
         "name": "Tandros Kreel",
 		"general": "einar",
 		"race": "human",
@@ -2436,7 +2348,6 @@
 					"If an opponent's figure that is adjacent to Tandros Kreel attacks with a normal or special attack, it must attack Tandros Kreel."}]
 	},
 	{
-		"id": "",
         "name": "Erevan Sunshadow",
 		"general": "jandar",
 		"race": "eladrin",
@@ -2465,7 +2376,6 @@
 					"Once per game Erevan Sunshadow may use Fey Step. Before moving normally with Erevan Sunshadow, you may place him on any empty space within 5 spaces of his current location. If Erevan Sunshadow is engaged when he uses Fey Step, he will not take any engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Darrak Ambershard",
 		"general": "aquilla",
 		"race": "dwarf",
@@ -2498,7 +2408,6 @@
 					"If Darrak Ambershard is attacked with a normal attack and at least one skull is rolled, roll the 20-sided die. If Darrak Ambershard is on a Dungeon space, add three to your die roll. If he is on a Shadow space, add 6 to your die roll. If you roll a 1-15, roll defence dice normally. If you roll a 16 or higher, ignore all damage that would be inflicted by the attack."}]
 	},
 	{
-		"id": "",
         "name": "Pelloth",
 		"general": "utgar",
 		"race": "drow",
@@ -2527,7 +2436,6 @@
 					"If Pelloth is on a shadow space, opponents' figures must be adjacent to attack him with a normal attack."}]
 	},
 	{
-		"id": "",
         "name": "Feral Troll",
 		"general": "utgar",
 		"race": "troll",
@@ -2556,7 +2464,6 @@
 					"After taking a turn with this Feral Troll, remove 1 Wound Marker from this Feral Troll's army card."}]
 	},
 	{
-		"id": "",
         "name": "Deepwyrm Drow",
 		"general": "utgar",
 		"race": "drow",
@@ -2585,7 +2492,6 @@
 					"If a Deepwyrm Drow is attacked with a normal attack and at least 1 skull is rolled, roll the 20-sided die. If that Deepwyrm Drow is on a dungeon space, add 3 to your die roll. If it is on a shadow space, add 6 to your die roll. If you roll a 1-15, roll defence dice normally. If you roll a 16 or higher, ignore all damage that would be inflicted by the attack."}]
 	},
 	{
-		"id": "",
         "name": "Nakita Agents",
 		"general": "vydar",
 		"race": "human",
@@ -2618,7 +2524,6 @@
 					"Before taking a turn with Nakita Agents, you may move 3 Gorillinators you control up to 7 spaces each."}]
 	},
 	{
-		"id": "",
         "name": "Spartacus",
 		"general": "einar",
 		"race": "human",
@@ -2643,7 +2548,6 @@
 					"If all Order Markers for a round are placed on Gladiator Army Cards, and at least one Order Marker is placed on Spartacus, then all Gladiators you control (except Spartacus) become inspired. Inspired Gladiators add one to their Move number and add 1 extra attack die and defense die for the rest of the round."}]
 	},
 	{
-		"id": "",
         "name": "Crixus",
 		"general": "einar",
 		"race": "human",
@@ -2668,7 +2572,6 @@
 					"When rolling defense dice, if Crixus rolls at least one shield, the most wounds Crixus may take for this attack is one."}]
 	},
 	{
-		"id": "",
         "name": "Retiarius",
 		"general": "einar",
 		"race": "human",
@@ -2693,7 +2596,6 @@
 					"After moving and before attacking, roll the 20-sided die. If you roll a 14 or higher, any small or medium figure attacked by Retiarius this turn may roll no more than 1 die for defense."}]
 	},
 	{
-		"id": "",
         "name": "Ninjas of the Northern Wind",
 		"general": "einar",
 		"race": "human",
@@ -2724,7 +2626,6 @@
 				"description": "Ninjas of the Northern Wind are never attacked when leaving an engagement."}]
 	},
 	{
-		"id": "",
         "name": "Kozuke Samurai",
 		"general": "einar",
 		"race": "human",
@@ -2753,7 +2654,6 @@
 					"When rolling defense dice against a normal attack from an adjacent attacking figure, all excess shields count as unblockable hits on the attacking figure. This power does not work against other Samurai."}]
 	},
 	{
-		"id": "",
         "name": "Blastatrons",
 		"general": "vydar",
 		"race": "soulborg",
@@ -2782,7 +2682,6 @@
 					"When attacking a non-adjacent figure, add 1 attack die for every Soulborg who follows Vydar who you control that is adjacent to the defending figure."}]
 	},
 	{
-		"id": "",
         "name": "Death Stalkers",
 		"general": "utgar",
 		"race": "soulborg",
@@ -2807,7 +2706,6 @@
 					"When rolling attack dice against a small or medium figure, if a Deathstalker rolls a skull on every die, the defending figure receives a wound for every skull, and cannot roll any defense dice."}]
 	},
 	{
-		"id": "",
         "name": "Warriors of Ashra",
 		"general": "ullar",
 		"race": "elves",
@@ -2832,7 +2730,6 @@
 					"When a Warrior of Ashra rolls defense dice against a normal attack from an adjacent figure, one shield will block all damage."}]
 	},
 	{
-		"id": "",
         "name": "Deathreavers",
 		"general": "utgar",
 		"race": "soulborg",
@@ -2863,7 +2760,6 @@
 				"description": "When moving up or down levels of terrain, Deathreavers may double their Height."}]
 	},
 	{
-		"id": "",
         "name": "Kaemon Awa",
 		"general": "einar",
 		"race": "human",
@@ -2892,7 +2788,6 @@
 					"When rolling defense dice against a normal attack from an adjacent attacking figure, all excess shields count as unblockable hits on the attacking figure. This power does not work against other Samurai."}]
 	},
 	{
-		"id": "",
         "name": "Eldgrim the Viking Champion",
 		"general": "jandar",
 		"race": "human",
@@ -2921,7 +2816,6 @@
 					"When Eldgrim is destroyed, you may place this figure on any unique Army Card. Eldgrim's Spirit adds 1 to the move number on that card."}]
 	},
 	{
-		"id": "",
         "name": "Empress Kiova",
 		"general": "einar",
 		"race": "kyrie",
@@ -2950,7 +2844,6 @@
 					"When counting spaces for Empress Kiova's movement, ignore elevations. Empress Kiova may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Empress Kiova starts to fly, if she is engaged she will not take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Kee-Mo-Shi",
 		"general": "utgar",
 		"race": "marro",
@@ -2979,7 +2872,6 @@
 					"After attacking, you must roll the 20-sided die once for each figure adjacent to Kee-Mo-Shi. If you roll a 17 or higher, that figure receives one wound. Soulborgs are not affected by Toxic Skin."}]
 	},
 	{
-		"id": "",
         "name": "Runa",
 		"general": "utgar",
 		"race": "kyrie",
@@ -3008,7 +2900,6 @@
 					"When counting spaces for Runa's movement, ignore elevations. Runa may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Runa starts to fly, if she is engaged she will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Einar Imperium",
 		"general": "einar",
 		"race": "kyrie",
@@ -3036,7 +2927,6 @@
 					"When counting spaces for the Einar Imperium's movement, ignore elevations. The Einar Imperium may fly over water without stopping, pass over obstacles such as ruins. When a member of the Einar Imperium starts to fly, if he is engaged he will not take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Tagawa Samurai Archers",
 		"general": "einar",
 		"race": "human",
@@ -3061,7 +2951,6 @@
 					"When rolling defense dice against a normal attack from an adjacent attacking figure, all excess shields count as unblockable hits on the attacking figure. This power does not work against other Samurai."}]
 	},
 	{
-		"id": "",
         "name": "Heavy Gruts",
 		"general": "utgar",
 		"race": "orc",
@@ -3089,7 +2978,6 @@
 				"description": "Heavy Gruts are never attacked when leaving engagements."}]
 	},
 	{
-		"id": "",
         "name": "Shades of Bleakwoode",
 		"general": "utgar",
 		"race": "undead",
@@ -3118,7 +3006,6 @@
 					"When counting spaces for Shades of Bleakwoode's movement, ignore elevations. Shades of Bleakwoode may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When a Shade of Bleakwoode starts to fly, if it is engaged it will not take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Zombies of Morindan",
 		"general": "utgar",
 		"race": "undead",
@@ -3151,7 +3038,6 @@
 					"If a Zombie of Morindan that you control destroys an opponent's small or medium figure, replace that figure immediately, if possible, with one of your own previously destroyed Zombies of Morindan. Newly placed Zombies of Morindan cannot attack this turn. Undead are not affected by Zombies Rise Again."}]
 	},
 	{
-		"id": "",
         "name": "Cyprien Esenwein",
 		"general": "utgar",
 		"race": "undead",
@@ -3184,7 +3070,6 @@
 					"When counting spaces for Cyprien Esenwein’s movement, ignore elevations. Cyprien Esenwein may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Cyprien Esenwein starts to fly, if he is engaged he will not take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Sonya Esenwein",
 		"general": "utgar",
 		"race": "undead",
@@ -3221,7 +3106,6 @@
 					"When counting spaces for Sonya Esenwein's movement, ignore elevations. Sonya Esenwein may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Sonya Esenwein starts to fly, if she is engaged she will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Warden 816",
 		"general": "utgar",
 		"race": "soulborg",
@@ -3248,7 +3132,6 @@
 				"description": "All Guards you control move one additional space."}]
 	},
 	{
-		"id": "",
         "name": "Isamu",
 		"general": "utgar",
 		"race": "human",
@@ -3279,7 +3162,6 @@
 				"description": "When attacking a figure who follows Jandar, Isamu rolls 2 additional attack dice."}]
 	},
 	{
-		"id": "",
         "name": "Kyntela Gwyn",
 		"general": "ullar",
 		"race": "elf",
@@ -3303,7 +3185,6 @@
 				"description": "All friendly Elves adjacent to Kyntela Gwyn add 1 to their defense dice."}]
 	},
 	{
-		"id": "",
         "name": "Iskra Esenwein",
 		"general": "utgar",
 		"race": "undead",
@@ -3336,7 +3217,6 @@
 					"When counting spaces for Iskra Esenwein's movement, ignore elevations. Iskra Esenwein may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Iskra Esenwein starts to fly, if she is engaged she will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Rechets of Bogdan",
 		"general": "utgar",
 		"race": "undead",
@@ -3369,7 +3249,6 @@
 					"When counting spaces for a Rechet's movement, ignore elevations. Rechets may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When a Rechet starts to fly, if it is engaged it will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Marcu Esenwein",
 		"general": "utgar",
 		"race": "undead",
@@ -3402,7 +3281,6 @@
 					"When counting spaces for Marcu Esenwein's movement, ignore elevations. Marcu Esenwein may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Marcu Esenwein starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Ashigaru Harquebus",
 		"general": "einar",
 		"race": "human",
@@ -3426,7 +3304,6 @@
 				"description": "If none of the Ashigaru Harquebus move this turn, add 1 die to their attack."}]
 	},
 	{
-		"id": "",
         "name": "Ashigaru Yari",
 		"general": "einar",
 		"race": "human",
@@ -3451,7 +3328,6 @@
 					"Range 1. Attack 6. If 3 Ashigaru Yari you control are adjacent to the same enemy figure, they may roll their attack dice as one combined attack. The defending figure compares height to the lowest Ashgaru Yari to determine any height advantage. If Encircle Special Attack is used, the 4th figure that moved this turn cannot attack."}]
 	},
 	{
-		"id": "",
         "name": "Templar Cavalry",
 		"general": "jandar",
 		"race": "human",
@@ -3484,7 +3360,6 @@
 					"When attacking an opponent's figure who follows Utgar; Templar Cavalry receive 1 additional attack die."}]
 	},
 	{
-		"id": "",
         "name": "Sir Dupuis",
 		"general": "jandar",
 		"race": "human",
@@ -3516,7 +3391,6 @@
 				"description": "If Sir Dupuis has 4 or more wounds on his Army Card, add 1 to his defense dice."}]
 	},
 	{
-		"id": "",
         "name": "Moriko",
 		"general": "ullar",
 		"race": "human",
@@ -3544,7 +3418,6 @@
 					"Range 1. Attack 1, 2 or 3. Moriko starts each turn with 6 attack dice. Choose any adjacent figure and attack by rolling 1, 2 or 3 attack dice. Moriko may keep making special attacks with 1, 2 or 3 attack dice until she has rolled all 6 attack dice. Moriko may target the same or different figures with each attack."}]
 	},
 	{
-		"id": "",
         "name": "Kato Katsuro",
 		"general": "einar",
 		"race": "human",
@@ -3569,7 +3442,6 @@
 					"Instead of taking a turn with Kato Katsuro, you may take a turn with one of the following that you control:1 Samurai Hero, or 1 Samurai Squad, or 1 Ashigaru Riflemen Squad and/or 1 Ashigaru Spearmen Squad. You may choose which Squad to activate first.Any figure in the above list that is taking a turn instead of Kato Katsuro must be within clear sight of Kato Katsuro before moving."}]
 	},
 	{
-		"id": "",
         "name": "Otonashi",
 		"general": "vydar",
 		"race": "human",
@@ -3600,7 +3472,6 @@
 				"description": "When attacking a figure who has a \"Wild\" personality, Otonashi rolls 2 additional attack dice."}]
 	},
 	{
-		"id": "",
         "name": "Chardris",
 		"general": "ullar",
 		"race": "elf",
@@ -3625,7 +3496,6 @@
 					"Range 6. Attack 2 + Special. When Chadris attacks with Fire Strike Special Attack add 1 to Chadris' attack dice for every additional Elf Wizard you control within 3 clear sight spaces of Chadris, up to a maximum of +3 dice."}]
 	},
 	{
-		"id": "",
         "name": "Ulginesh",
 		"general": "ullar",
 		"race": "elf",
@@ -3654,7 +3524,6 @@
 					"When counting spaces for Ulginesh's movement, ignore elevations. Ulginesh may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Ulginesh starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Jorhdawn",
 		"general": "ullar",
 		"race": "elf",
@@ -3679,7 +3548,6 @@
 					"Range 7. Attack 1 + Special. Choose a figure to attack. Any figures adjacent to the chosen figure are also affected by the Rain of Flame Special Attack. Add 1 to Jorhdawn's attack dice for every additional Elf Wizard you control within 3 clear sight spaces of Jorhdawn, up to a maximum of +3 dice. Roll attack dice once for all affected figures. Each affected figure rolls defense dice separately. Jorhdawn cannot be affected by her own Rain of Flame Special Attack."}]
 	},
 	{
-		"id": "",
         "name": "Emirroon",
 		"general": "ullar",
 		"race": "elf",
@@ -3704,7 +3572,6 @@
 					"After moving and before attacking, you may roll the 20-sided die. Add the number of Elves you control adjacent to Emirroon to your die roll. If you roll 1-4, nothing happens. If you roll 5-11, you may place 1 Elf you control adjacent to Emirroon. If you roll 12-17, you may place up to 2 Elves you control adjacent to Emirroon. If you roll 18-20, you may place up to 3 Elves you control adjacent to Emirroon. If the summoned Elves are engaged, they will not take any leaving engagement attacks. Emirroon cannot summon an Elf that he is already adjacent to."}]
 	},
 	{
-		"id": "",
         "name": "Arkmer",
 		"general": "ullar",
 		"race": "elf",
@@ -3733,7 +3600,6 @@
 					"If an opponent's small or medium figure moves, adjacent to Arkmer, roll the 20-sided die. If you roll a 13 or higher, the opponent's figure receives one wound. Figures may be targeted only as they move into engagement with Arkmer."}]
 	},
 	{
-		"id": "",
         "name": "10th Regiment of Foot",
 		"general": "einar",
 		"race": "human",
@@ -3765,7 +3631,6 @@
 					"When rolling attack dice against an adjacent figure, a Soldier in the 10th Regiment of Foot adds 1 to his attack dice. A Soldier in the 10th Regiment of Foot can only use Bayonet Attack if he moved at least one space this turn."}]
 	},
 	{
-		"id": "",
         "name": "Wolves of Badru",
 		"general": "utgar",
 		"race": "wolves",
@@ -3797,7 +3662,6 @@
 					"Range3. Attack5. A Wolf of Badru that moved but did not attack normally may use Pounce Special Attack. To pounce, choose a non-adjacent small or medium figure whose base is not higher or lower than 5 levels from the base of the attacking Wolf. If the figure is destroyed, immediately place the attacking Wolf on the space the figure occupied. If the figure is not destroyed, destroy the attacking Wolf."}]
 	},
 	{
-		"id": "",
         "name": "Grok Riders",
 		"general": "utgar",
 		"race": "marro",
@@ -3829,7 +3693,6 @@
 				"description": "Marro Hive cannot rebirth Grok Riders with its rebirth special power."}]
 	},
 	{
-		"id": "",
         "name": "Atlaga the Kyrie Warrior",
 		"general": "ullar",
 		"race": "kyrie",
@@ -3861,7 +3724,6 @@
 					"When counting spaces for Atlaga's movement, ignore elevations. Atlaga may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Atlaga starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Migol Ironwill",
 		"general": "aquilla",
 		"race": "dwarf",
@@ -3892,7 +3754,6 @@
 				"description": "When moving up or down levels of terrain, Migol Ironwill may double his Height."}]
 	},
 	{
-		"id": "",
         "name": "Tul-Bak-Ra",
 		"general": "utgar",
 		"race": "marro",
@@ -3925,7 +3786,6 @@
 					"When Tul-Bak-Ra receives one or more wounds from an opposing figure's Normal or Special attack but is not destroyed, you may choose one friendly Marro Squad figure for every wound Tul-Bak-Ra just received. Place the chosen figure(s) on any empty space(s) adjacent to Tul-Bak-Ra. If the teleported figure(s) are engaged, they will not take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Brave Arrow",
 		"general": "aquilla",
 		"race": "human",
@@ -3957,7 +3817,6 @@
 					"If Brave Arrow is targeted and receives one or more wounds from an attacking figure who is not adjacent, you must roll the 20-sided die. Count the minimum number of spaces between the attacker and Brave Arrow. Add this number to your die roll. If you roll a 10 or higher, ignore any wounds Brave Arrow just received."}]
 	},
 	{
-		"id": "",
         "name": "Kumiko",
 		"general": "jandar",
 		"race": "human",
@@ -3985,7 +3844,6 @@
 				"description": "Kumiko can move through all figures and is never attacked when leaving an engagement."}]
 	},
 	{
-		"id": "",
         "name": "Marro Dividers",
 		"general": "utgar",
 		"race": "marro",
@@ -4013,7 +3871,6 @@
 				"description": "Marro Hive cannot rebirth Marro Dividers with its Marro Rebirth special power."}]
 	},
 	{
-		"id": "",
         "name": "Protectors of Ullar",
 		"general": "ullar",
 		"race": "kyrie",
@@ -4042,7 +3899,6 @@
 					"When counting spaces for Protectors of Ullar's movement, ignore elevations. Protectors of Ullar may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Protectors of Ullar starts to fly, if he is engaged he will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "The Axe Grinders of Burning Forge",
 		"general": "aquilla",
 		"race": "dwarves",
@@ -4075,7 +3931,6 @@
 					"When moving up or down levels of terrain, The Axegrinders of Burning Forge may double their height."}]
 	},
 	{
-		"id": "",
         "name": "Omnicron Repulsors",
 		"general": "jandar",
 		"race": "soulborg",
@@ -4108,7 +3963,6 @@
 					"If an Omnicron Repulsor you control successfully defends an attack by a Soulborg figure, you must roll the 20 sided die. If you roll a 14 or higher, the attacking figure must immediately end its turn and all order markers must be removed from its Army Card (or cards if your opponent has more than one)."}]
 	},
 	{
-		"id": "",
         "name": "Mohican River Tribe",
 		"general": "aquilla",
 		"race": "human",
@@ -4140,7 +3994,6 @@
 					"If a Mohican River Tribesman is targeted and receives one or more wounds from an attacking figure who is not adjacent, you must roll the 20-sided die. Count the minimum number of spaces between the attacker and the Mochican River Tribesman. Add this number to your die roll. If you roll a 19 or higher, ignore any wounds the Mohican River Tribesman just received."}]
 	},
 	{
-		"id": "",
         "name": "Capuan Gladiators",
 		"general": "einar",
 		"race": "human",
@@ -4169,7 +4022,6 @@
 					"If all of your Order Markers are on Gladiator Army Cards, you may add 1 to your initiative roll for every Order Marker on the Capuan Gladiators' Army Card, up to a maximum of +3 for Initiative Advantage."}]
 	},
 	{
-		"id": "",
         "name": "Sir Hawthorne",
 		"general": "utgar",
 		"race": "human",
@@ -4198,7 +4050,6 @@
 					"After you take a turn with Sir Hawthorne, you must roll the 20-sided die. If you roll a 1, choose an opponent. That opponent now controls Sir Hawthorne. Remove any order markers on this Army Card, then give the card to that opponent."}]
 	},
 	{
-		"id": "",
         "name": "Nerak the Glacian Swog Rider",
 		"general": "utgar",
 		"race": "orc",
@@ -4229,7 +4080,6 @@
 				"description": "Add 1 to Nerak's attack and defense while on a snow space."}]
 	},
 	{
-		"id": "",
         "name": "Elite Onyx Vipers",
 		"general": "ullar",
 		"race": "marro",
@@ -4261,7 +4111,6 @@
 					"When an Elite Onyx Viper rolls defense dice against an attacking figure who is not adjacent, add 8 defense dice to the defending Viper."}]
 	},
 	{
-		"id": "",
         "name": "Granite Guardians",
 		"general": "aquilla",
 		"race": "elementar",
@@ -4294,7 +4143,6 @@
 					"After taking a turn with Granite Guardians, you may move each Granite Guardian you control up to 1 space. This space may be up to 4 levels higher."}]
 	},
 	{
-		"id": "",
         "name": "Quasatch Hunters",
 		"general": "aquilla",
 		"race": "quasatch",
@@ -4326,7 +4174,6 @@
 					"If a Quasatch Hunter starts its turn next to an Evergreen Tree or a Jungle Piece, it may move 2 additional spaces."}]
 	},
 	{
-		"id": "",
         "name": "Earth Elemental",
 		"general": "einar",
 		"race": "elemental",
@@ -4355,7 +4202,6 @@
 					"Instead of moving normally with an Earth Elemental, you may immediately place it on any empty non-water space that is within 4 spaces of that Earth Elemental and is no higher than 1 level above that Earth Elemental's height or 3 levels below that Earth Elemental's base. If an Earth Elemental is engaged when it starts its Underground Movement, it will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Fire Elemental",
 		"general": "utgar",
 		"race": "elemental",
@@ -4387,7 +4233,6 @@
 				"description": "A Fire Elemental can never roll defense dice while it is on a water space."}]
 	},
 	{
-		"id": "",
         "name": "Water Elemental",
 		"general": "aquilla",
 		"race": "elemental",
@@ -4415,7 +4260,6 @@
 					"If a Water Elemental ends its normal movement on a water space, you may immediately place it on any empty same-level water space that is within 5 spaces. If a Water Elemental is engaged when it starts its Water Tunnel, it will not take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Air Elemental",
 		"general": "jandar",
 		"race": "elemental",
@@ -4448,7 +4292,6 @@
 					"When counting spaces for an Air Elemental’s movement, ignore elevations. An Air Elemental may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When an Air Elemental starts to fly, if it is engaged it will not take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Wyvern",
 		"general": "aquilla",
 		"race": "wyvern",
@@ -4481,7 +4324,6 @@
 					"When counting spaces for this Wyvern's movement, ignore elevations. It may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When it starts to fly, if it is engaged it will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Greenscale Warriors",
 		"general": "ullar",
 		"race": "lizardfolkd",
@@ -4510,7 +4352,6 @@
 					"Before taking a turn with the Greenscale Warriors, you may first take a turn with their chosen Lizard King if it is still under your control."}]
 	},
 	{
-		"id": "",
         "name": "Drow Chainfighter",
 		"general": "utgar",
 		"race": "drow",
@@ -4539,7 +4380,6 @@
 					"If a Drow Chainfighter is attacked with a normal attack and at least 1 skull is rolled, roll the 20-sided die. If that Drow Chainfighter is on a dungeon space add 3 to your die roll, if he is on a shadow space add 6 to your die roll. If you roll a 1 - 15, roll defense dice normally. If you roll a 16 or higher, ignore all damage that would be inflicted by the attack."}]
 	},
 	{
-		"id": "",
         "name": "Greater Ice Elemental",
 		"general": "jandar",
 		"race": "elemental",
@@ -4572,7 +4412,6 @@
 					"After taking a turn with this Greater Ice Elemental, if it is on at least one snow or ice space, remove 1 wound marker from this Greater Ice Elemental's Army Card."}]
 	},
 	{
-		"id": "",
         "name": "Phantom Knights",
 		"general": "utgar",
 		"race": "undead",
@@ -4601,7 +4440,6 @@
 					"When counting spaces for a Phantom Knight's movement, ignore elevations. A Phantom Knight may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. If a Phantom Knight is engaged when it starts to fly, it will not take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Sahuagin Raider",
 		"general": "utgar",
 		"race": "sahuagin",
@@ -4630,7 +4468,6 @@
 					"While a Sahuagin Raider is on a water space, add 2 to its defense. If a Sahuagin Raider starts its turn on a water space, add 1 to its movement for that turn. A Sahuagin Raider does not have to stop its movement when entering a water space."}]
 	},
 	{
-		"id": "",
         "name": "Fen Hydra",
 		"general": "utgar",
 		"race": "hydra",
@@ -4661,7 +4498,6 @@
 				"description": "The Fen Hydra does not have to stop its movement when entering water spaces."}]
 	},
 	{
-		"id": "",
         "name": "Estivara",
 		"general": "utgar",
 		"race": "drow",
@@ -4694,7 +4530,6 @@
 					"After taking a turn with Estivara, you may roll the 20-sided die. If you roll a 16 or higher, while she remains on that space, Estivara has no visible Hit Zone until the next time you reveal an order marker."}]
 	},
 	{
-		"id": "",
         "name": "Torin",
 		"general": "utgar",
 		"race": "human",
@@ -4722,7 +4557,6 @@
 					"When Torin, or any friendly small or medium Utgar figure adjacent to Torin, rolls defense dice against a normal attack from a non-adjacent attacking figure, all excess shields count as unblockable hits on the attacking figure."}]
 	},
 	{
-		"id": "",
         "name": "Sharwin Wildborn",
 		"general": "ullar",
 		"race": "eladrin",
@@ -4755,7 +4589,6 @@
 					"When rolling attack dice for a normal attack, Sharwin Wildborn always adds 1 automatic skull to whatever is rolled."}]
 	},
 	{
-		"id": "",
         "name": "Brandis Skyhunter",
 		"general": "ullar",
 		"race": "half-elf",
@@ -4784,7 +4617,6 @@
 					"Each time Brandis Skyhunter destroys an opponent's non-adjacent Unique Hero, you may take another turn with Brandis Skyhunter."}]
 	},
 	{
-		"id": "",
         "name": "Mogrimm Forgehammer",
 		"general": "aquilla",
 		"race": "dwarf",
@@ -4816,7 +4648,6 @@
 					"When rolling defense dice against a normal attack, Mogrimm Forgehammer always adds 1 automatic shield to whatever is rolled."}]
 	},
 	{
-		"id": "",
         "name": "Iron Golem",
 		"general": "vydar",
 		"race": "golem",
@@ -4849,7 +4680,6 @@
 					"When counting spaces for Raelin's movement, ignore elevations. Raelin may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Raelin starts to fly, if she is engaged she will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Black Wyrmling",
 		"general": "vydar",
 		"race": "dragon",
@@ -4882,7 +4712,6 @@
 					"When counting spaces for the Black Wyrmling's movement, ignore elevations. The Black Wyrmling may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When the Black Wyrmling starts to fly, if it is engaged it will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "White Wyrmling",
 		"general": "jandar",
 		"race": "dragon",
@@ -4915,7 +4744,6 @@
 					"When counting spaces for the White Wyrmling's movement, ignore elevations. The White Wyrmling may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When the White Wyrmling starts to fly, if it is engaged it will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Blue Wyrmling",
 		"general": "aquilla",
 		"race": "dragon",
@@ -4948,7 +4776,6 @@
 					"When counting spaces for the Blue Wyrmling's movement, ignore elevations. The Blue Wyrmling may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When the Blue Wyrmling starts to fly, if it is engaged it will take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Red Wyrmling",
 		"general": "einar",
 		"race": "dragon",
@@ -4981,7 +4808,6 @@
 					"When counting spaces for the Red Wyrmling's movement, ignore elevations. The Red Wyrmling may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When the Red Wyrmling starts to fly, if it is engaged it will take any leaving engagement attacks"}]
 	},
 	{
-		"id": "",
         "name": "Ogre Warhulk",
 		"general": "utgar",
 		"race": "ogre",
@@ -5010,7 +4836,6 @@
 					"When you roll the 20-sided die for a Treasure Glyph trap with this Ogre Warhulk, you must subtract 4 from your die roll."}]
 	},
 	{
-		"id": "",
         "name": "Goblin Cutters",
 		"general": "utgar",
 		"race": "goblin",
@@ -5042,7 +4867,6 @@
 				"description": "When moving up or down levels of terrain, Goblin Cutters may add 2 to their height."}]
 	},
 	{
-		"id": "",
         "name": "Warforged Soldiers",
 		"general": "vydar",
 		"race": "warforged",
@@ -5071,7 +4895,6 @@
 					"When rolling defense dice against a normal or special attack, a Warforged Soldier always adds 1 automatic shield to whatever is rolled."}]
 	},
 	{
-		"id": "",
         "name": "Mind Flayer Mastermind",
 		"general": "utgar",
 		"race": "mind flayer",
@@ -5100,7 +4923,6 @@
 					"When revealing an order marker on this Mind Flayer Mastermind, after taking this Mind Flayer Mastermind's turn, you may choose any Unique Hero figure within 4 clear sight spaces of this Mind Flayer Mastermind. Roll the 20-sided die. If you roll a 17 or higher, take temporary control of the chosen Hero and immediately take a turn with that Hero. At the end of that turn, control of the chosen Hero returns to its previous owner. All order markers that were on the figure's Army Card will stay on the Army Card. Enslave does not affect Mindflayers."}]
 	},
 	{
-		"id": "",
         "name": "Werewolf Lord",
 		"general": "utgar",
 		"race": "lycanthrope",
@@ -5129,7 +4951,6 @@
 					"After revealing an Order Marker on this Werewolf Lord, before taking this Werewolf Lord's turn, roll the 20-sided die. If you roll an 11 or higher, you may first take a turn with any Hybrid Hero in play. If you take a turn with an oppenent's Hybrid Hero, you control that Hero for the duration of its turn. At the end of its turn, control of the Hybrid Hero returns to its previous owner. All Order Markers that were on the figure's Army Card will stay on the Army Card."}]
 	},
 	{
-		"id": "",
         "name": "Kurrok the Elementalist",
 		"general": "utgar",
 		"race": "hobgoblin",
@@ -5157,7 +4978,6 @@
 					"After revealing an Order Marker on Kurrok the Elementalist, instead of taking that turn with Kurrok, you may take a turn with up to three small or medium Elementals you control that are within 8 clear sight spaces of Kurrok the Elementalist."}]
 	},
 	{
-		"id": "",
         "name": "Rhogar Dragonspine",
 		"general": "aquilla",
 		"race": "dragonspine",
@@ -5186,7 +5006,6 @@
 					"After moving and before attacking, you may choose a wounded friendly Hero figure adjacent to Rhogar Dragonspine and roll the 20-sided die. If you roll a 6 or higher, remove 1 wound marker from the chosen figure's Army Card."}]
 	},
 	{
-		"id": "",
         "name": "Shurrak",
 		"general": "utgar",
 		"race": "giant",
@@ -5219,7 +5038,6 @@
 					"Shurrak never rolls for molten lava damage or lava field damage, and he does not have to stop on molten lava spaces."}]
 	},
 	{
-		"id": "",
         "name": "Heirloom",
 		"general": "vydar",
 		"race": "warforged",
@@ -5252,7 +5070,6 @@
 					"When rolling defense dice against a normal or special attack, Heirloom always adds 1 automatic shield to whatever is rolled."}]
 	},
 	{
-		"id": "",
         "name": "Mika Connour",
 		"general": "vydar",
 		"race": "human",
@@ -5284,7 +5101,6 @@
 					"Mika Connour starts each game with up to 2 shadow tiles on her Army Card (included in expansion pack). If Mika Connour ends her turn on an empty land space, you may place a shadow tile from her Army Card onto the space she occupies if the shadow tile fits normally onto that space."}]
 	},
 	{
-		"id": "",
         "name": "Death Chasers of Thesk",
 		"general": "valkrill",
 		"race": "orcs",
@@ -5313,7 +5129,6 @@
 					"At the start of the first round of a game, after all order markers have been placed, you may move all Death Chasers of Thesk you control up to 5 spaces each. They must end their Orc Battle Rush movement on an empty space."}]
 	},
 	{
-		"id": "",
         "name": "Horned Skull Brutes",
 		"general": "valkrill",
 		"race": "goblin",
@@ -5342,7 +5157,6 @@
 					"After moving and before attacking, if a Horned Skull Brute you control ends its movement unengaged, you may choose an engaged small or medium friendly squad figure within 3 clear sight spaces of that Horned Skull Brute whose base is no more than 2 levels higher or lower than the base of the Horned Skull Brute. You may switch that Horned Skull Brute with the chosen squad figure. Figures moved by Barge Into Battle never take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Mezzodemon Warmongers",
 		"general": "valkrill",
 		"race": "demons",
@@ -5370,7 +5184,6 @@
 					"At the start of the game, place 1 copper Exoskeleton marker on a Mezzodemon Warmongers Army Card for each Mezzodemon Warmonger figure in your Army. After a Mezzodemon Warmonger rolls defense dice against a normal attack, you may remove 1 Exoskeleton marker from its Army Card to ignore all wounds inflicted by that attack. Orc Battle Rush"}]
 	},
 	{
-		"id": "",
         "name": "Death Knights of Valkrill",
 		"general": "valkrill",
 		"race": "undead",
@@ -5399,7 +5212,6 @@
 					"Before taking a turn with the Death Knights of Valkrill, you may first take a turn with any small, medium or large relentless Hero you control."}]
 	},
 	{
-		"id": "",
         "name": "Ogre Pulverizer",
 		"general": "utgar",
 		"race": "ogre",
@@ -5427,7 +5239,6 @@
 					"When attacking with this Ogre Pulverizer, all excess shields rolled by the defending figure count as unblockable hits inflicted by the defending figure on this Ogre Pulverizer."}]
 	},
 	{
-		"id": "",
         "name": "Frost Giant of Morh",
 		"general": "utgar",
 		"race": "giant",
@@ -5460,7 +5271,6 @@
 					"If this Frost Giant of Morh is attacked with a normal attack by an opponent's figure and receives enough wounds to be destroyed, roll 3 attack dice. One at a time for each skull rolled, you may inflict 1 wound on any figure that is adjacent to this Frost Giant of Morh. Figures affected by Dying Swipe cannot roll any defense dice and can receive more than 1 wound each. After using Dying Swipe, remove this Frost Giant of Morh from the battlefield."}]
 	},
 	{
-		"id": "",
         "name": "Ice Troll Berserker",
 		"general": "utgar",
 		"race": "troll",
@@ -5489,7 +5299,6 @@
 					"After taking a turn with this Ice Troll Berserker, remove 1 wound marker from this Ice Troll Berserker's Army Card. If it is on a snow or ice space, remove 1 additional wound marker."}]
 	},
 	{
-		"id": "",
         "name": "Master of the Hunt",
 		"general": "einar",
 		"race": "firbolg",
@@ -5518,7 +5327,6 @@
 					"After moving and before attacking with this Master of the Hunt, you may roll the 20-sided die. If you roll a 16 or higher, add 3 to this Master of the Hunt's Range value for the duration of its turn."}]
 	},
 	{
-		"id": "",
         "name": "Eltahale",
 		"general": "jandar",
 		"race": "goliath",
@@ -5547,7 +5355,6 @@
 					"Instead of moving Eltahale normally, you may choose an opponent's figure within 5 clear sight spaces of Eltahale. Place Eltahale on any empty space adjacent to the chosen figure. For the duration of Eltahale's turn, add 1 to her Attack value. At the end of her turn, roll 1 attack die. If a skull is rolled, place 1 wound marker on Eltahale's Army Card. If Eltahale is engaged when she starts Thunder Step, she will not take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Siege",
 		"general": "vydar",
 		"race": "warforged",
@@ -5572,7 +5379,6 @@
 					"When revealing a numbered order marker on Siege's Army Card, you may also reveal an \"X\" order marker that is on Siege's Army Card to activate Crag of Steel for the duration of the round. While Crag of Steel is active, add 3 to Siege's Defense value and subtract 2 from Siege's Attack and Move values. When Siege attacks while Crag of Steel is active, he may attack any or all figures adjacent to him. Roll each attack separately."}]
 	},
 	{
-		"id": "",
         "name": "Evar Scarcarver",
 		"general": "vydar",
 		"race": "human",
@@ -5601,7 +5407,6 @@
 					"When revealing a numbered order marker on Evar Scarcarver's Army Card, you may also reveal an \"X\" order marker that is on Evar Scarcarver's Army Card to activate Frost Rage for the duration of the round. While Frost Rage is active, add 1 to Evar Scarcarver's Attack and Defense values for each wound marker on his Army Card."}]
 	},
 	{
-		"id": "",
         "name": "Moltenclaw",
 		"general": "utgar",
 		"race": "dragon",
@@ -5634,7 +5439,6 @@
 					"When counting spaces for Moltenclaw's movement, ignore elevations. Moltenclaw may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Moltenclaw starts to fly, if it is engaged it will take any leaving engagement attacks"}]
 	},
 	{
-		"id": "",
         "name": "Dumutef Guard",
 		"general": "utgar",
 		"race": "fiantooth",
@@ -5661,7 +5465,6 @@
 				"description": "All friendly Devourers adjacent to a Dumutef Guard receive an additional attack die."}]
 	},
 	{
-		"id": "",
         "name": "Obsidian Guards",
 		"general": "utgar",
 		"race": "moltarn",
@@ -5692,7 +5495,6 @@
 				"description": "An Obsidian Guard on a water space rolls 2 fewer defense dice."}]
 	},
 	{
-		"id": "",
         "name": "Dzu-Teh",
 		"general": "jandar",
 		"race": "Dzu-Teh",
@@ -5725,7 +5527,6 @@
 					"Slippery Ice and Heavy Snow only count as 1 space when moving (Whereas other figures would have to count them as 2 spaces)."}]
 	},
 	{
-		"id": "",
         "name": "Fyorlag Spiders",
 		"general": "aquilla",
 		"race": "scouts",
@@ -5757,7 +5558,6 @@
 					"Before taking a turn with Fyorlag Spiders, you may first take a turn with any Predator you control."}]
 	},
 	{
-		"id": "",
         "name": "Master Win Chiu Woo",
 		"general": "aquilla",
 		"race": "human",
@@ -5789,7 +5589,6 @@
 					"Instead of his normal move, Master Woo may use Stealth Leap 25. Stealth Leap 25 has a move of 3. When counting spaces for Stealth Leap 25, ignore elevations. Master Woo may leap over water without stopping, leap over figures without becoming engaged, and leap over obstacles such as ruins. Master Woo may not leap more than 25 levels up or down in a single leap. If Master Woo is engaged when he starts his Stealth Leap, he will not take any leaving engagement attacks."}]
 	},
 	{
-		"id": "",
         "name": "Agent Skahen",
 		"general": "vydar",
 		"race": "human",
@@ -5821,7 +5620,6 @@
 					"When Agent Skahen rolls defense dice against an attacking figure who is not adjacent, one shield will block all damage."}]
 	},
 	{
-		"id": "",
         "name": "Sir Gilbert",
 		"general": "jandar",
 		"race": "human",
@@ -5849,7 +5647,6 @@
 				"description": "All friendly figures adjacent to Sir Gilbert with a range of 1 add 1 die to their normal attack"}]
 	},
 	{
-		"id": "",
         "name": "Acolarh",
 		"general": "ullar",
 		"race": "elf",
@@ -5878,7 +5675,6 @@
 					"All friendly figures who follow Ullar and start their turn adjacent to Acolarh may move 2 additional spaces."}]
 	},
 	{
-		"id": "",
         "name": "Laglor",
 		"general": "vydar",
 		"race": "primadon",
@@ -5907,7 +5703,6 @@
 					"Range 7. Attack 3. When attacking with Autoload Special Attack, you may roll Vydar Valkyrie Dice. If you roll at least one Vydar symbol, you may attack again using Autoload Special Attack."}]
 	},
 	{
-		"id": "",
         "name": "Hatamoto Taro",
 		"general": "einar",
 		"race": "human",
@@ -5936,7 +5731,6 @@
 					"When rolling defense dice for Hatamoto Taro, if Hatamoto Taro is adjacent to at least one figure who follows Einar that you control, add one automatic shield to the defense roll."}]
 	},
 	{
-		"id": "",
         "name": "Ornak",
 		"general": "utgar",
 		"race": "orc",
@@ -5965,7 +5759,6 @@
 					"When attacking with any Orc Warrior figures you control adjacent to Ornak, you may roll Utgar Valkyrie dice. Each Utgar symbol rolled counts for an additional skull."}]
 	},
 	{
-		"id": "",
         "name": "Samuel Brown",
 		"general": "jandar",
 		"race": "human",

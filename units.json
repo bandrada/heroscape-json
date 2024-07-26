@@ -1,7 +1,6 @@
 [
 	{
 		"name": "Marro Warriors",
-		"image": "marrowarriors.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "unique squad",
@@ -25,7 +24,6 @@
 	},
 	{
 		"name": "Deathwalker 9000",
-		"image": "deathwalker9000.jpg",
 		"general": "utgar",
 		"race": "soulborg",
 		"type": "unique hero",
@@ -52,7 +50,6 @@
 	},
 	{
 		"name": "Izumi Samurai",
-		"image": "izumisamurai.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique squad",
@@ -76,7 +73,6 @@
 	},
 	{
 		"name": "Sgt. Drake Alexander (1)",
-		"image": "sgtdrakealexander1.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",
@@ -103,7 +99,6 @@
 	},
 	{
 		"name": "Syvarris",
-		"image": "syvarris.jpg",
 		"general": "ullar",
 		"race": "elf",
 		"type": "unique hero",
@@ -126,7 +121,6 @@
 	},
 	{
 		"name": "Krav Maga Agents",
-		"image": "kravmagaagents.jpg",
 		"general": "vydar",
 		"race": "human",
 		"type": "unique squad",
@@ -150,7 +144,6 @@
 	},
 	{
 		"name": "Tarn Viking Warriors",
-		"image": "tarnvikingwarriors.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique squad",
@@ -174,7 +167,6 @@
 	},
 	{
 		"name": "Agent Carr",
-		"image": "agentcarr.jpg",
 		"general": "vydar",
 		"race": "human",
 		"type": "unique hero",
@@ -203,7 +195,6 @@
 	},
 	{
 		"name": "Zettian Guards",
-		"image": "zettianguards.jpg",
 		"general": "utgar",
 		"race": "soulborg",
 		"type": "unique squad",
@@ -227,7 +218,6 @@
 	},
 	{
 		"name": "Airborne Elite",
-		"image": "airborneelite.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique squad",
@@ -255,7 +245,6 @@
 	},
 	{
 		"name": "Finn the Viking Champion",
-		"image": "finnthevikingchampion.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",
@@ -282,7 +271,6 @@
 	},
 	{
 		"name": "Thorgrim the Viking Champion",
-		"image": "thorgrimthevikingchampion.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",
@@ -309,7 +297,6 @@
 	},
 	{
 		"name": "Raelin the Kyrie Warrior (1)",
-		"image": "raelinthekyriewarrior1.jpg",
 		"general": "jandar",
 		"race": "kyrie",
 		"type": "unique hero",
@@ -337,7 +324,6 @@
 	},
 	{
 		"name": "Mimring",
-		"image": "mimring.jpg",
 		"general": "utgar",
 		"race": "dragon",
 		"type": "unique hero",
@@ -364,7 +350,6 @@
 	},
 	{
 		"name": "Ne-gok-sa",
-		"image": "negoksa.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "unique hero",
@@ -388,7 +373,6 @@
 	},
 	{
 		"name": "Grimnak",
-		"image": "grimnak.jpg",
 		"general": "utgar",
 		"race": "orc",
 		"type": "unique hero",
@@ -416,7 +400,6 @@
 	},
 	{
 		"name": "Omnicron Snipers",
-		"image": "omnicronsnipers.jpg",
 		"general": "jandar",
 		"race": "soulborg",
 		"type": "common squad",
@@ -439,7 +422,6 @@
 	},
 	{
 		"name": "Taelord the Kyrie Warrior",
-		"image": "taelordthekyriewarrior.jpg",
 		"general": "utgar",
 		"race": "kyrie",
 		"type": "unique hero",
@@ -467,7 +449,6 @@
 	},
 	{
 		"name": "Kelda the Kyrie Warrior",
-		"image": "keldathekyriewarrior.jpg",
 		"general": "jandar",
 		"race": "kyrie",
 		"type": "unique hero",
@@ -495,7 +476,6 @@
 	},
 	{
 		"name": "Marcus Decimus Gallus",
-		"image": "marcusdecimusgallus.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique hero",
@@ -521,7 +501,6 @@
 	},
 	{
 		"name": "Venoc Warlord",
-		"image": "venocwarlord.jpg",
 		"general": "ullar",
 		"race": "viper",
 		"type": "unique hero",
@@ -550,7 +529,6 @@
 	},
 	{
 		"name": "Tornak",
-		"image": "tornak.jpg",
 		"general": "utgar",
 		"race": "orc",
 		"type": "unique hero",
@@ -577,7 +555,6 @@
 	},
 	{
 		"name": "Venoc Vipers",
-		"image": "venocvipers.jpg",
 		"general": "ullar",
 		"race": "viper",
 		"type": "common squad",
@@ -604,7 +581,6 @@
 	},
 	{
 		"name": "Roman Legionnaires",
-		"image": "romanlegionnaires.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "common squad",
@@ -632,7 +608,6 @@
 	},
 	{
 		"name": "Roman Archers",
-		"image": "romanarchers.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "common squad",
@@ -656,7 +631,6 @@
 	},
 	{
 		"name": "Arrow Gruts",
-		"image": "arrowgruts.jpg",
 		"general": "utgar",
 		"race": "orc",
 		"type": "common squad",
@@ -682,7 +656,6 @@
 	},
 	{
 		"name": "Blade Gruts",
-		"image": "bladegruts.jpg",
 		"general": "utgar",
 		"race": "orc",
 		"type": "common squad",
@@ -709,7 +682,6 @@
 	},
 	{
 		"name": "Khosumet the Darklord",
-		"image": "khosumetthedarklord.jpg",
 		"general": "utgar",
 		"race": "wolf",
 		"type": "unique hero",
@@ -736,7 +708,6 @@
 	},
 	{
 		"name": "Sir Denrick",
-		"image": "sirdenrick.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",
@@ -762,7 +733,6 @@
 	},
 	{
 		"name": "Me-Burq-Sa",
-		"image": "meburqsa.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "unique hero",
@@ -786,7 +756,6 @@
 	},
 	{
 		"name": "Krug",
-		"image": "krug.jpg",
 		"general": "utgar",
 		"race": "troll",
 		"type": "unique hero",
@@ -812,7 +781,6 @@
 	},
 	{
 		"name": "Minions of Utgar",
-		"image": "minionsofutgar.jpg",
 		"general": "utgar",
 		"race": "kyrie",
 		"type": "common squad",
@@ -843,7 +811,6 @@
 	},
 	{
 		"name": "Marro Drones",
-		"image": "marrodrones.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "common squad",
@@ -867,7 +834,6 @@
 	},
 	{
 		"name": "Knights of Weston",
-		"image": "knightsofweston.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "common squad",
@@ -894,7 +860,6 @@
 	},
 	{
 		"name": "Swog Rider",
-		"image": "swogrider.jpg",
 		"general": "utgar",
 		"race": "orc",
 		"type": "common hero",
@@ -921,7 +886,6 @@
 	},
 	{
 		"name": "4th Massachusetts Line",
-		"image": "4thmassachusettsline.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "common squad",
@@ -948,7 +912,6 @@
 	},
 	{
 		"name": "Anubian Wolves",
-		"image": "anubianwolves.jpg",
 		"general": "utgar",
 		"race": "wolves",
 		"type": "common squad",
@@ -972,7 +935,6 @@
 	},
 	{
 		"name": "Saylind the Kyrie Warrior",
-		"image": "saylindthekyriewarrior.jpg",
 		"general": "ullar",
 		"race": "kyrie",
 		"type": "unique hero",
@@ -1000,7 +962,6 @@
 	},
 	{
 		"name": "Johnny 'Shotgun' Sullivan",
-		"image": "johnnyshotgunsullivan.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",
@@ -1024,7 +985,6 @@
 	},
 	{
 		"name": "Deathwalker 7000",
-		"image": "deathwalker7000.jpg",
 		"general": "utgar",
 		"race": "soulborg",
 		"type": "unique hero",
@@ -1052,7 +1012,6 @@
 	},
 	{
 		"name": "Concan the Kyrie Warrior",
-		"image": "concanthekyriewarrior.jpg",
 		"general": "jandar",
 		"race": "kyrie",
 		"type": "unique hero",
@@ -1080,7 +1039,6 @@
 	},
 	{
 		"name": "Alastair MacDirk",
-		"image": "alastairmacdirk.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",
@@ -1104,7 +1062,6 @@
 	},
 	{
 		"name": "Sentinels of Jandar",
-		"image": "sentinelsofjandar.jpg",
 		"general": "jandar",
 		"race": "kyrie",
 		"type": "common squad",
@@ -1131,7 +1088,6 @@
 	},
 	{
 		"name": "Marrden Hounds",
-		"image": "marrdenhounds.jpg",
 		"general": "utgar",
 		"race": "wulsinu",
 		"type": "common squad",
@@ -1159,7 +1115,6 @@
 	},
 	{
 		"name": "Gorillinators",
-		"image": "gorillinators.jpg",
 		"general": "vydar",
 		"race": "primadon",
 		"type": "common squad",
@@ -1183,7 +1138,6 @@
 	},
 	{
 		"name": "Microcorp Agents",
-		"image": "microcorpagents.jpg",
 		"general": "vydar",
 		"race": "human",
 		"type": "common squad",
@@ -1214,7 +1168,6 @@
 	},
 	{
 		"name": "MacDirk Warriors",
-		"image": "macdirkwarriors.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "common squad",
@@ -1242,7 +1195,6 @@
 	},
 	{
 		"name": "Shaolin Monks",
-		"image": "shaolinmonks.jpg",
 		"general": "ullar",
 		"race": "human",
 		"type": "common squad",
@@ -1269,7 +1221,6 @@
 	},
 	{
 		"name": "Major X17",
-		"image": "majorx17.jpg",
 		"general": "vydar",
 		"race": "soulborg",
 		"type": "unique hero",
@@ -1297,7 +1248,6 @@
 	},
 	{
 		"name": "Valguard",
-		"image": "valguard.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique hero",
@@ -1324,7 +1274,6 @@
 	},
 	{
 		"name": "Parmenio",
-		"image": "parmenio.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique hero",
@@ -1352,7 +1301,6 @@
 	},
 	{
 		"name": "Morsbane",
-		"image": "morsbane.jpg",
 		"general": "ullar",
 		"race": "elf",
 		"type": "unique hero",
@@ -1376,7 +1324,6 @@
 	},
 	{
 		"name": "Sudema",
-		"image": "sudema.jpg",
 		"general": "vydar",
 		"race": "undead",
 		"type": "unique hero",
@@ -1400,7 +1347,6 @@
 	},
 	{
 		"name": "James Murphy",
-		"image": "jamesmurphy.jpg",
 		"general": "vydar",
 		"race": "human",
 		"type": "unique hero",
@@ -1424,7 +1370,6 @@
 	},
 	{
 		"name": "Guilty McCreech",
-		"image": "guiltymccreech.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique hero",
@@ -1447,7 +1392,6 @@
 	},
 	{
 		"name": "Deadeye Dan",
-		"image": "deadeyedan.jpg",
 		"general": "ullar",
 		"race": "human",
 		"type": "unique hero",
@@ -1475,7 +1419,6 @@
 	},
 	{
 		"name": "Tagawa Samurai",
-		"image": "tagawasamurai.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique squad",
@@ -1503,7 +1446,6 @@
 	},
 	{
 		"name": "Aubrien Archers",
-		"image": "aubrienarchers.jpg",
 		"general": "ullar",
 		"race": "elves",
 		"type": "common squad",
@@ -1527,7 +1469,6 @@
 	},
 	{
 		"name": "Gladiatrons",
-		"image": "gladiatrons.jpg",
 		"general": "vydar",
 		"race": "soulborg",
 		"type": "common squad",
@@ -1555,7 +1496,6 @@
 	},
 	{
 		"name": "Sacred Band",
-		"image": "sacredband.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "common squad",
@@ -1583,7 +1523,6 @@
 	},
 	{
 		"name": "Armoc Vipers",
-		"image": "armocvipers.jpg",
 		"general": "ullar",
 		"race": "viper",
 		"type": "common squad",
@@ -1610,7 +1549,6 @@
 	},
 	{
 		"name": "Brunak",
-		"image": "brunak.jpg",
 		"general": "utgar",
 		"race": "trolticor",
 		"type": "unique hero",
@@ -1642,7 +1580,6 @@
 	},
 	{
 		"name": "Charos",
-		"image": "charos.jpg",
 		"general": "ullar",
 		"race": "dragon",
 		"type": "unique hero",
@@ -1670,7 +1607,6 @@
 	},
 	{
 		"name": "Deathwalker 8000",
-		"image": "deathwalker8000.jpg",
 		"general": "utgar",
 		"race": "soulborg",
 		"type": "unique hero",
@@ -1694,7 +1630,6 @@
 	},
 	{
 		"name": "Dund",
-		"image": "dund.jpg",
 		"general": "vydar",
 		"race": "doggin",
 		"type": "unique hero",
@@ -1718,7 +1653,6 @@
 	},
 	{
 		"name": "Su-Bak-Na",
-		"image": "subakna.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "unique hero",
@@ -1746,7 +1680,6 @@
 	},
 	{
 		"name": "Braxas",
-		"image": "braxas.jpg",
 		"general": "vydar",
 		"race": "dragon",
 		"type": "unique hero",
@@ -1774,7 +1707,6 @@
 	},
 	{
 		"name": "Jotun",
-		"image": "jotun.jpg",
 		"general": "ullar",
 		"race": "giant",
 		"type": "unique hero",
@@ -1802,7 +1734,6 @@
 	},
 	{
 		"name": "Major Q9",
-		"image": "majorq9.jpg",
 		"general": "vydar",
 		"race": "soulborg",
 		"type": "unique hero",
@@ -1826,7 +1757,6 @@
 	},
 	{
 		"name": "Nilfheim",
-		"image": "nilfheim.jpg",
 		"general": "jandar",
 		"race": "dragon",
 		"type": "unique hero",
@@ -1854,7 +1784,6 @@
 	},
 	{
 		"name": "Theracus",
-		"image": "theracus.jpg",
 		"general": "ullar",
 		"race": "gryphillin",
 		"type": "unique hero",
@@ -1882,7 +1811,6 @@
 	},
 	{
 		"name": "Gurei-Oni",
-		"image": "gureioni.jpg",
 		"general": "einar",
 		"race": "ogre",
 		"type": "unique hero",
@@ -1910,7 +1838,6 @@
 	},
 	{
 		"name": "Sujoah",
-		"image": "sujoah.jpg",
 		"general": "aquilla",
 		"race": "insect",
 		"type": "unique hero",
@@ -1938,7 +1865,6 @@
 	},
 	{
 		"name": "Wo-Sa-Ga",
-		"image": "wosaga.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "unique hero",
@@ -1965,7 +1891,6 @@
 	},
 	{
 		"name": "Zelrig",
-		"image": "zelrig.jpg",
 		"general": "einar",
 		"race": "dragon",
 		"type": "unique hero",
@@ -1993,7 +1918,6 @@
 	},
 	{
 		"name": "Zetacron",
-		"image": "zetacron.jpg",
 		"general": "jandar",
 		"race": "soulborg",
 		"type": "unique hero",
@@ -2017,7 +1941,6 @@
 	},
 	{
 		"name": "Raelin the Kyrie Warrior (2)",
-		"image": "raelinthekyriewarrior2.jpg",
 		"general": "jandar",
 		"race": "kyrie",
 		"type": "unique hero",
@@ -2048,7 +1971,6 @@
 	},
 	{
 		"name": "Sgt. Drake Alexander (2)",
-		"image": "sgtdrakealexander2.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",
@@ -2079,7 +2001,6 @@
 	},
 	{
 		"name": "Sonlen",
-		"image": "sonlen.jpg",
 		"general": "ullar",
 		"race": "elf",
 		"type": "unique hero",
@@ -2107,7 +2028,6 @@
 	},
 	{
 		"name": "Major Q10",
-		"image": "majorq10.jpg",
 		"general": "vydar",
 		"race": "soulborg",
 		"type": "unique hero",
@@ -2135,7 +2055,6 @@
 	},
 	{
 		"name": "Shiori",
-		"image": "shiori.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique hero",
@@ -2166,7 +2085,6 @@
 	},
 	{
 		"name": "Marro Drudge",
-		"image": "marrodrudge.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "common squad",
@@ -2193,7 +2111,6 @@
 	},
 	{
 		"name": "Marro Hive",
-		"image": "marrohive.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "unique hero",
@@ -2221,7 +2138,6 @@
 	},
 	{
 		"name": "Marrden Nagrubs",
-		"image": "marrdennagrubs.jpg",
 		"general": "utgar",
 		"race": "nagrubs",
 		"type": "common squad",
@@ -2248,7 +2164,6 @@
 	},
 	{
 		"name": "Marro Stingers",
-		"image": "marrostingers.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "common squad",
@@ -2272,7 +2187,6 @@
 	},
 	{
 		"name": "Tor-Kul-Na",
-		"image": "torkulna.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "unique hero",
@@ -2296,7 +2210,6 @@
 	},
 	{
 		"name": "Ana Karithon",
-		"image": "anakarithon.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique hero",
@@ -2327,7 +2240,6 @@
 	},
 	{
 		"name": "Tandros Kreel",
-		"image": "tandroskreel.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique hero",
@@ -2358,7 +2270,6 @@
 	},
 	{
 		"name": "Erevan Sunshadow",
-		"image": "erevansunshadow.jpg",
 		"general": "jandar",
 		"race": "eladrin",
 		"type": "unique hero",
@@ -2386,7 +2297,6 @@
 	},
 	{
 		"name": "Darrak Ambershard",
-		"image": "darrakambershard.jpg",
 		"general": "aquilla",
 		"race": "dwarf",
 		"type": "unique hero",
@@ -2418,7 +2328,6 @@
 	},
 	{
 		"name": "Pelloth",
-		"image": "pelloth.jpg",
 		"general": "utgar",
 		"race": "drow",
 		"type": "unique hero",
@@ -2446,7 +2355,6 @@
 	},
 	{
 		"name": "Feral Troll",
-		"image": "feraltroll.jpg",
 		"general": "utgar",
 		"race": "troll",
 		"type": "uncommon hero",
@@ -2474,7 +2382,6 @@
 	},
 	{
 		"name": "Deepwyrm Drow",
-		"image": "deepwyrmdrow.jpg",
 		"general": "utgar",
 		"race": "drow",
 		"type": "common squad",
@@ -2502,7 +2409,6 @@
 	},
 	{
 		"name": "Nakita Agents",
-		"image": "nakitaagents.jpg",
 		"general": "vydar",
 		"race": "human",
 		"type": "unique squad",
@@ -2534,7 +2440,6 @@
 	},
 	{
 		"name": "Spartacus",
-		"image": "spartacus.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique hero",
@@ -2558,7 +2463,6 @@
 	},
 	{
 		"name": "Crixus",
-		"image": "crixus.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique hero",
@@ -2582,7 +2486,6 @@
 	},
 	{
 		"name": "Retiarius",
-		"image": "retiarius.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique hero",
@@ -2606,7 +2509,6 @@
 	},
 	{
 		"name": "Ninjas of the Northern Wind",
-		"image": "ninjasofthenorthernwind.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique squad",
@@ -2636,7 +2538,6 @@
 	},
 	{
 		"name": "Kozuke Samurai",
-		"image": "kozukesamurai.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique squad",
@@ -2664,7 +2565,6 @@
 	},
 	{
 		"name": "Blastatrons",
-		"image": "blastatrons.jpg",
 		"general": "vydar",
 		"race": "soulborg",
 		"type": "common squad",
@@ -2692,7 +2592,6 @@
 	},
 	{
 		"name": "Death Stalkers",
-		"image": "deathstalkers.jpg",
 		"general": "utgar",
 		"race": "soulborg",
 		"type": "common squad",
@@ -2716,7 +2615,6 @@
 	},
 	{
 		"name": "Warriors of Ashra",
-		"image": "warriorsofashra.jpg",
 		"general": "ullar",
 		"race": "elves",
 		"type": "common squad",
@@ -2740,7 +2638,6 @@
 	},
 	{
 		"name": "Deathreavers",
-		"image": "deathreavers.jpg",
 		"general": "utgar",
 		"race": "soulborg",
 		"type": "common squad",
@@ -2770,7 +2667,6 @@
 	},
 	{
 		"name": "Kaemon Awa",
-		"image": "kaemonawa.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique hero",
@@ -2798,7 +2694,6 @@
 	},
 	{
 		"name": "Eldgrim the Viking Champion",
-		"image": "eldgrimthevikingchampion.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",
@@ -2826,7 +2721,6 @@
 	},
 	{
 		"name": "Empress Kiova",
-		"image": "empresskiova.jpg",
 		"general": "einar",
 		"race": "kyrie",
 		"type": "unique hero",
@@ -2854,7 +2748,6 @@
 	},
 	{
 		"name": "Kee-Mo-Shi",
-		"image": "keemoshi.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "unique hero",
@@ -2882,7 +2775,6 @@
 	},
 	{
 		"name": "Runa",
-		"image": "runa.jpg",
 		"general": "utgar",
 		"race": "kyrie",
 		"type": "unique hero",
@@ -2910,7 +2802,6 @@
 	},
 	{
 		"name": "Einar Imperium",
-		"image": "einarimperium.jpg",
 		"general": "einar",
 		"race": "kyrie",
 		"type": "common squad",
@@ -2937,7 +2828,6 @@
 	},
 	{
 		"name": "Tagawa Samurai Archers",
-		"image": "tagawasamuraiarchers.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "common squad",
@@ -2961,7 +2851,6 @@
 	},
 	{
 		"name": "Heavy Gruts",
-		"image": "heavygruts.jpg",
 		"general": "utgar",
 		"race": "orc",
 		"type": "common squad",
@@ -2988,7 +2877,6 @@
 	},
 	{
 		"name": "Shades of Bleakwoode",
-		"image": "shadesofbleakwoode.jpg",
 		"general": "utgar",
 		"race": "undead",
 		"type": "common squad",
@@ -3016,7 +2904,6 @@
 	},
 	{
 		"name": "Zombies of Morindan",
-		"image": "zombiesofmorindan.jpg",
 		"general": "utgar",
 		"race": "undead",
 		"type": "common squad",
@@ -3048,7 +2935,6 @@
 	},
 	{
 		"name": "Cyprien Esenwein",
-		"image": "cyprienesenwein.jpg",
 		"general": "utgar",
 		"race": "undead",
 		"type": "unique hero",
@@ -3080,7 +2966,6 @@
 	},
 	{
 		"name": "Sonya Esenwein",
-		"image": "sonyaesenwein.jpg",
 		"general": "utgar",
 		"race": "undead",
 		"type": "unique hero",
@@ -3116,7 +3001,6 @@
 	},
 	{
 		"name": "Warden 816",
-		"image": "warden816.jpg",
 		"general": "utgar",
 		"race": "soulborg",
 		"type": "unique hero",
@@ -3142,7 +3026,6 @@
 	},
 	{
 		"name": "Isamu",
-		"image": "isamu.jpg",
 		"general": "utgar",
 		"race": "human",
 		"type": "unique hero",
@@ -3172,7 +3055,6 @@
 	},
 	{
 		"name": "Kyntela Gwyn",
-		"image": "kyntelagwyn.jpg",
 		"general": "ullar",
 		"race": "elf",
 		"type": "unique hero",
@@ -3195,7 +3077,6 @@
 	},
 	{
 		"name": "Iskra Esenwein",
-		"image": "iskraesenwein.jpg",
 		"general": "utgar",
 		"race": "undead",
 		"type": "unique hero",
@@ -3227,7 +3108,6 @@
 	},
 	{
 		"name": "Rechets of Bogdan",
-		"image": "rechetsofbogdan.jpg",
 		"general": "utgar",
 		"race": "undead",
 		"type": "unique squad",
@@ -3259,7 +3139,6 @@
 	},
 	{
 		"name": "Marcu Esenwein",
-		"image": "marcuesenwein.jpg",
 		"general": "utgar",
 		"race": "undead",
 		"type": "unique hero",
@@ -3291,7 +3170,6 @@
 	},
 	{
 		"name": "Ashigaru Harquebus",
-		"image": "ashigaruharquebus.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "common squad",
@@ -3314,7 +3192,6 @@
 	},
 	{
 		"name": "Ashigaru Yari",
-		"image": "ashigaruyari.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "common squad",
@@ -3338,7 +3215,6 @@
 	},
 	{
 		"name": "Templar Cavalry",
-		"image": "templarcavalry.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "common squad",
@@ -3370,7 +3246,6 @@
 	},
 	{
 		"name": "Sir Dupuis",
-		"image": "sirdupuis.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",
@@ -3401,7 +3276,6 @@
 	},
 	{
 		"name": "Moriko",
-		"image": "moriko.jpg",
 		"general": "ullar",
 		"race": "human",
 		"type": "unique hero",
@@ -3428,7 +3302,6 @@
 	},
 	{
 		"name": "Kato Katsuro",
-		"image": "katokatsuro.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique hero",
@@ -3452,7 +3325,6 @@
 	},
 	{
 		"name": "Otonashi",
-		"image": "otonashi.jpg",
 		"general": "vydar",
 		"race": "human",
 		"type": "unique hero",
@@ -3482,7 +3354,6 @@
 	},
 	{
 		"name": "Chardris",
-		"image": "chardris.jpg",
 		"general": "ullar",
 		"race": "elf",
 		"type": "unique hero",
@@ -3506,7 +3377,6 @@
 	},
 	{
 		"name": "Ulginesh",
-		"image": "ulginesh.jpg",
 		"general": "ullar",
 		"race": "elf",
 		"type": "unique hero",
@@ -3534,7 +3404,6 @@
 	},
 	{
 		"name": "Jorhdawn",
-		"image": "jorhdawn.jpg",
 		"general": "ullar",
 		"race": "elf",
 		"type": "unique hero",
@@ -3558,7 +3427,6 @@
 	},
 	{
 		"name": "Emirroon",
-		"image": "emirroon.jpg",
 		"general": "ullar",
 		"race": "elf",
 		"type": "unique hero",
@@ -3582,7 +3450,6 @@
 	},
 	{
 		"name": "Arkmer",
-		"image": "arkmer.jpg",
 		"general": "ullar",
 		"race": "elf",
 		"type": "unique hero",
@@ -3610,7 +3477,6 @@
 	},
 	{
 		"name": "10th Regiment of Foot",
-		"image": "10thregimentoffoot.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "common squad",
@@ -3641,7 +3507,6 @@
 	},
 	{
 		"name": "Wolves of Badru",
-		"image": "wolvesofbadru.jpg",
 		"general": "utgar",
 		"race": "wolves",
 		"type": "common squad",
@@ -3672,7 +3537,6 @@
 	},
 	{
 		"name": "Grok Riders",
-		"image": "grokriders.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "common squad",
@@ -3703,7 +3567,6 @@
 	},
 	{
 		"name": "Atlaga the Kyrie Warrior",
-		"image": "atlagathekyriewarrior.jpg",
 		"general": "ullar",
 		"race": "kyrie",
 		"type": "unique hero",
@@ -3734,7 +3597,6 @@
 	},
 	{
 		"name": "Migol Ironwill",
-		"image": "migolironwill.jpg",
 		"general": "aquilla",
 		"race": "dwarf",
 		"type": "unique hero",
@@ -3764,7 +3626,6 @@
 	},
 	{
 		"name": "Tul-Bak-Ra",
-		"image": "tulbakra.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "unique hero",
@@ -3796,7 +3657,6 @@
 	},
 	{
 		"name": "Brave Arrow",
-		"image": "bravearrow.jpg",
 		"general": "aquilla",
 		"race": "human",
 		"type": "unique hero",
@@ -3827,7 +3687,6 @@
 	},
 	{
 		"name": "Kumiko",
-		"image": "kumiko.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",
@@ -3854,7 +3713,6 @@
 	},
 	{
 		"name": "Marro Dividers",
-		"image": "marrodividers.jpg",
 		"general": "utgar",
 		"race": "marro",
 		"type": "common squad",
@@ -3881,7 +3739,6 @@
 	},
 	{
 		"name": "Protectors of Ullar",
-		"image": "protectorsofullar.jpg",
 		"general": "ullar",
 		"race": "kyrie",
 		"type": "common squad",
@@ -3909,7 +3766,6 @@
 	},
 	{
 		"name": "The Axe Grinders of Burning Forge",
-		"image": "axegrindersofburningforge.jpg",
 		"general": "aquilla",
 		"race": "dwarves",
 		"type": "common squad",
@@ -3941,7 +3797,6 @@
 	},
 	{
 		"name": "Omnicron Repulsors",
-		"image": "omnicronrepulsors.jpg",
 		"general": "jandar",
 		"race": "soulborg",
 		"type": "common squad",
@@ -3973,7 +3828,6 @@
 	},
 	{
 		"name": "Mohican River Tribe",
-		"image": "mohicanrivertribe.jpg",
 		"general": "aquilla",
 		"race": "human",
 		"type": "common squad",
@@ -4004,7 +3858,6 @@
 	},
 	{
 		"name": "Capuan Gladiators",
-		"image": "capuangladiators.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "common squad",
@@ -4032,7 +3885,6 @@
 	},
 	{
 		"name": "Sir Hawthorne",
-		"image": "sirhawthorne.jpg",
 		"general": "utgar",
 		"race": "human",
 		"type": "unique hero",
@@ -4060,7 +3912,6 @@
 	},
 	{
 		"name": "Nerak the Glacian Swog Rider",
-		"image": "neraktheglacianswogrider.jpg",
 		"general": "utgar",
 		"race": "orc",
 		"type": "unique hero",
@@ -4090,7 +3941,6 @@
 	},
 	{
 		"name": "Elite Onyx Vipers",
-		"image": "eliteonyxvipers.jpg",
 		"general": "ullar",
 		"race": "marro",
 		"type": "unique squad",
@@ -4121,7 +3971,6 @@
 	},
 	{
 		"name": "Granite Guardians",
-		"image": "graniteguardians.jpg",
 		"general": "aquilla",
 		"race": "elementar",
 		"type": "common squad",
@@ -4153,7 +4002,6 @@
 	},
 	{
 		"name": "Quasatch Hunters",
-		"image": "quasatchhunters.jpg",
 		"general": "aquilla",
 		"race": "quasatch",
 		"type": "common squad",
@@ -4184,7 +4032,6 @@
 	},
 	{
 		"name": "Earth Elemental",
-		"image": "earthelemental.jpg",
 		"general": "einar",
 		"race": "elemental",
 		"type": "common hero",
@@ -4212,7 +4059,6 @@
 	},
 	{
 		"name": "Fire Elemental",
-		"image": "fireelemental.jpg",
 		"general": "utgar",
 		"race": "elemental",
 		"type": "common hero",
@@ -4243,7 +4089,6 @@
 	},
 	{
 		"name": "Water Elemental",
-		"image": "waterelemental.jpg",
 		"general": "aquilla",
 		"race": "elemental",
 		"type": "common hero",
@@ -4270,7 +4115,6 @@
 	},
 	{
 		"name": "Air Elemental",
-		"image": "airelemental.jpg",
 		"general": "jandar",
 		"race": "elemental",
 		"type": "common hero",
@@ -4302,7 +4146,6 @@
 	},
 	{
 		"name": "Wyvern",
-		"image": "wyvern.jpg",
 		"general": "aquilla",
 		"race": "wyvern",
 		"type": "uncommon hero",
@@ -4334,7 +4177,6 @@
 	},
 	{
 		"name": "Greenscale Warriors",
-		"image": "greenscalewarriors.jpg",
 		"general": "ullar",
 		"race": "lizardfolkd",
 		"type": "common squad",
@@ -4362,7 +4204,6 @@
 	},
 	{
 		"name": "Drow Chainfighter",
-		"image": "drowchainfighter.jpg",
 		"general": "utgar",
 		"race": "drow",
 		"type": "common hero",
@@ -4390,7 +4231,6 @@
 	},
 	{
 		"name": "Greater Ice Elemental",
-		"image": "greatericeelemental.jpg",
 		"general": "jandar",
 		"race": "elemental",
 		"type": "uncommon hero",
@@ -4422,7 +4262,6 @@
 	},
 	{
 		"name": "Phantom Knights",
-		"image": "phantomknights.jpg",
 		"general": "utgar",
 		"race": "undead",
 		"type": "common squad",
@@ -4450,7 +4289,6 @@
 	},
 	{
 		"name": "Sahuagin Raider",
-		"image": "sahuaginraider.jpg",
 		"general": "utgar",
 		"race": "sahuagin",
 		"type": "common hero",
@@ -4478,7 +4316,6 @@
 	},
 	{
 		"name": "Fen Hydra",
-		"image": "fenhydra.jpg",
 		"general": "utgar",
 		"race": "hydra",
 		"type": "uncommon hero",
@@ -4508,7 +4345,6 @@
 	},
 	{
 		"name": "Estivara",
-		"image": "estivara.jpg",
 		"general": "utgar",
 		"race": "drow",
 		"type": "unique hero",
@@ -4540,7 +4376,6 @@
 	},
 	{
 		"name": "Torin",
-		"image": "torin.jpg",
 		"general": "utgar",
 		"race": "human",
 		"type": "unique hero",
@@ -4567,7 +4402,6 @@
 	},
 	{
 		"name": "Sharwin Wildborn",
-		"image": "sharwinwildborn.jpg",
 		"general": "ullar",
 		"race": "eladrin",
 		"type": "unique hero",
@@ -4599,7 +4433,6 @@
 	},
 	{
 		"name": "Brandis Skyhunter",
-		"image": "brandisskyhunter.jpg",
 		"general": "ullar",
 		"race": "half-elf",
 		"type": "unique hero",
@@ -4627,7 +4460,6 @@
 	},
 	{
 		"name": "Mogrimm Forgehammer",
-		"image": "mogrimmforgehammer.jpg",
 		"general": "aquilla",
 		"race": "dwarf",
 		"type": "unique hero",
@@ -4658,7 +4490,6 @@
 	},
 	{
 		"name": "Iron Golem",
-		"image": "irongolem.jpg",
 		"general": "vydar",
 		"race": "golem",
 		"type": "uncommon hero",
@@ -4690,7 +4521,6 @@
 	},
 	{
 		"name": "Black Wyrmling",
-		"image": "blackwyrmling.jpg",
 		"general": "vydar",
 		"race": "dragon",
 		"type": "common hero",
@@ -4722,7 +4552,6 @@
 	},
 	{
 		"name": "White Wyrmling",
-		"image": "whitewyrmling.jpg",
 		"general": "jandar",
 		"race": "dragon",
 		"type": "common hero",
@@ -4754,7 +4583,6 @@
 	},
 	{
 		"name": "Blue Wyrmling",
-		"image": "bluewyrmling.jpg",
 		"general": "aquilla",
 		"race": "dragon",
 		"type": "common hero",
@@ -4786,7 +4614,6 @@
 	},
 	{
 		"name": "Red Wyrmling",
-		"image": "redwyrmling.jpg",
 		"general": "einar",
 		"race": "dragon",
 		"type": "common hero",
@@ -4818,7 +4645,6 @@
 	},
 	{
 		"name": "Ogre Warhulk",
-		"image": "ogrewarhulk.jpg",
 		"general": "utgar",
 		"race": "ogre",
 		"type": "uncommon hero",
@@ -4846,7 +4672,6 @@
 	},
 	{
 		"name": "Goblin Cutters",
-		"image": "goblincutters.jpg",
 		"general": "utgar",
 		"race": "goblin",
 		"type": "common squad",
@@ -4877,7 +4702,6 @@
 	},
 	{
 		"name": "Warforged Soldiers",
-		"image": "warforgedsoldiers.jpg",
 		"general": "vydar",
 		"race": "warforged",
 		"type": "common squad",
@@ -4905,7 +4729,6 @@
 	},
 	{
 		"name": "Mind Flayer Mastermind",
-		"image": "mindflayermastermind.jpg",
 		"general": "utgar",
 		"race": "mind flayer",
 		"type": "uncommon hero",
@@ -4933,7 +4756,6 @@
 	},
 	{
 		"name": "Werewolf Lord",
-		"image": "werewolflord.jpg",
 		"general": "utgar",
 		"race": "lycanthrope",
 		"type": "uncommon hero",
@@ -4961,7 +4783,6 @@
 	},
 	{
 		"name": "Kurrok the Elementalist",
-		"image": "kurroktheelementalist.jpg",
 		"general": "utgar",
 		"race": "hobgoblin",
 		"type": "unique hero",
@@ -4989,7 +4810,6 @@
 	},
 	{
 		"name": "Rhogar Dragonspine",
-		"image": "rhogardragonspine.jpg",
 		"general": "aquilla",
 		"race": "dragonspine",
 		"type": "unique hero",
@@ -5017,7 +4837,6 @@
 	},
 	{
 		"name": "Shurrak",
-		"image": "shurrak.jpg",
 		"general": "utgar",
 		"race": "giant",
 		"type": "unique hero",
@@ -5049,7 +4868,6 @@
 	},
 	{
 		"name": "Heirloom",
-		"image": "heirloom.jpg",
 		"general": "vydar",
 		"race": "warforged",
 		"type": "unique hero",
@@ -5081,7 +4899,6 @@
 	},
 	{
 		"name": "Mika Connour",
-		"image": "mikaconnour.jpg",
 		"general": "vydar",
 		"race": "human",
 		"type": "unique hero",
@@ -5112,7 +4929,6 @@
 	},
 	{
 		"name": "Death Chasers of Thesk",
-		"image": "deathchasersofthesk.jpg",
 		"general": "valkrill",
 		"race": "orcs",
 		"type": "common squad",
@@ -5140,7 +4956,6 @@
 	},
 	{
 		"name": "Horned Skull Brutes",
-		"image": "hornedskullbrutes.jpg",
 		"general": "valkrill",
 		"race": "goblin",
 		"type": "common squad",
@@ -5168,7 +4983,6 @@
 	},
 	{
 		"name": "Mezzodemon Warmongers",
-		"image": "mezzodemonwarmongers.jpg",
 		"general": "valkrill",
 		"race": "demons",
 		"type": "common squad",
@@ -5195,7 +5009,6 @@
 	},
 	{
 		"name": "Death Knights of Valkrill",
-		"image": "deathknightsofvalkrill.jpg",
 		"general": "valkrill",
 		"race": "undead",
 		"type": "common squad",
@@ -5223,7 +5036,6 @@
 	},
 	{
 		"name": "Ogre Pulverizer",
-		"image": "ogrepulverizer.jpg",
 		"general": "utgar",
 		"race": "ogre",
 		"type": "uncommon hero",
@@ -5250,7 +5062,6 @@
 	},
 	{
 		"name": "Frost Giant of Morh",
-		"image": "frostgiantofmorh.jpg",
 		"general": "utgar",
 		"race": "giant",
 		"type": "uncommon hero",
@@ -5282,7 +5093,6 @@
 	},
 	{
 		"name": "Ice Troll Berserker",
-		"image": "icetrollberserker.jpg",
 		"general": "utgar",
 		"race": "troll",
 		"type": "uncommon hero",
@@ -5310,7 +5120,6 @@
 	},
 	{
 		"name": "Master of the Hunt",
-		"image": "masterofthehunt.jpg",
 		"general": "einar",
 		"race": "firbolg",
 		"type": "unique hero",
@@ -5338,7 +5147,6 @@
 	},
 	{
 		"name": "Eltahale",
-		"image": "eltahale.jpg",
 		"general": "jandar",
 		"race": "goliath",
 		"type": "unique hero",
@@ -5366,7 +5174,6 @@
 	},
 	{
 		"name": "Siege",
-		"image": "siege.jpg",
 		"general": "vydar",
 		"race": "warforged",
 		"type": "unique hero",
@@ -5390,7 +5197,6 @@
 	},
 	{
 		"name": "Evar Scarcarver",
-		"image": "evarscarcarver.jpg",
 		"general": "vydar",
 		"race": "human",
 		"type": "unique hero",
@@ -5418,7 +5224,6 @@
 	},
 	{
 		"name": "Moltenclaw",
-		"image": "moltenclaw.jpg",
 		"general": "utgar",
 		"race": "dragon",
 		"type": "unique hero",
@@ -5450,7 +5255,6 @@
 	},
 	{
 		"name": "Dumutef Guard",
-		"image": "dumutefguard.jpg",
 		"general": "utgar",
 		"race": "fiantooth",
 		"type": "common hero",
@@ -5476,7 +5280,6 @@
 	},
 	{
 		"name": "Obsidian Guards",
-		"image": "obsidianguards.jpg",
 		"general": "utgar",
 		"race": "moltarn",
 		"type": "common squad",
@@ -5506,7 +5309,6 @@
 	},
 	{
 		"name": "Dzu-Teh",
-		"image": "dzuteh.jpg",
 		"general": "jandar",
 		"race": "Dzu-Teh",
 		"type": "common squad",
@@ -5538,7 +5340,6 @@
 	},
 	{
 		"name": "Fyorlag Spiders",
-		"image": "fyorlagspiders.jpg",
 		"general": "aquilla",
 		"race": "scouts",
 		"type": "common squad",
@@ -5569,7 +5370,6 @@
 	},
 	{
 		"name": "Master Win Chiu Woo",
-		"image": "masterwinchiuwoo.jpg",
 		"general": "aquilla",
 		"race": "human",
 		"type": "unique hero",
@@ -5600,7 +5400,6 @@
 	},
 	{
 		"name": "Agent Skahen",
-		"image": "agentskahen.jpg",
 		"general": "vydar",
 		"race": "human",
 		"type": "unique hero",
@@ -5631,7 +5430,6 @@
 	},
 	{
 		"name": "Sir Gilbert",
-		"image": "sirgilbert.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",
@@ -5658,7 +5456,6 @@
 	},
 	{
 		"name": "Acolarh",
-		"image": "acolarh.jpg",
 		"general": "ullar",
 		"race": "elf",
 		"type": "unique hero",
@@ -5686,7 +5483,6 @@
 	},
 	{
 		"name": "Laglor",
-		"image": "laglor.jpg",
 		"general": "vydar",
 		"race": "primadon",
 		"type": "unique hero",
@@ -5714,7 +5510,6 @@
 	},
 	{
 		"name": "Hatamoto Taro",
-		"image": "hatamototaro.jpg",
 		"general": "einar",
 		"race": "human",
 		"type": "unique hero",
@@ -5742,7 +5537,6 @@
 	},
 	{
 		"name": "Ornak",
-		"image": "ornak.jpg",
 		"general": "utgar",
 		"race": "orc",
 		"type": "unique hero",
@@ -5770,7 +5564,6 @@
 	},
 	{
 		"name": "Samuel Brown",
-		"image": "samuelbrown.jpg",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",

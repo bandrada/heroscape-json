@@ -16,7 +16,7 @@
 		"points": 50,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Water Clone",
@@ -40,7 +40,7 @@
 		"points": 140,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Explosion Special Attack",
@@ -66,7 +66,7 @@
 		"points": 60,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Counter Strike",
@@ -90,7 +90,7 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Thorian Speed",
@@ -117,7 +117,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Double Attack",
@@ -140,7 +140,7 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Stealth Dodge",
@@ -164,7 +164,7 @@
 		"points": 50,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Berserker Charge",
@@ -188,7 +188,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Ghost Walk",
@@ -217,7 +217,7 @@
 		"points": 70,
 		"figures": 2,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Zettian Targeting",
@@ -241,7 +241,7 @@
 		"points": 110,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Grenade Special Attack",
@@ -269,7 +269,7 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Attack Aura 1",
@@ -296,7 +296,7 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Warrior's Armor Spirit 1",
@@ -323,7 +323,7 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Defensive Aura",
@@ -351,7 +351,7 @@
 		"points": 150,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Fire Line Special Attack",
@@ -379,7 +379,7 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Mind Shackle 20",
@@ -402,7 +402,7 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Master Set: Rise of the Valkyrie",
+		"set": "Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Chomp",
@@ -430,7 +430,7 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 1: Malliddon's Prophecy",
+		"set": "Malliddon's Prophecy",
 		"abilities": [
 			{
 				"name": "Deadly Shot",
@@ -453,7 +453,7 @@
 		"points": 180,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 1: Malliddon's Prophecy",
+		"set": "Malliddon's Prophecy",
 		"abilities": [
 			{
 				"name": "Attack Aura",
@@ -481,7 +481,7 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 1: Malliddon's Prophecy",
+		"set": "Malliddon's Prophecy",
 		"abilities": [
 			{
 				"name": "Healing Touch",
@@ -509,7 +509,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 1: Malliddon's Prophecy",
+		"set": "Malliddon's Prophecy",
 		"abilities": [
 			{
 				"name": "Soldier Leadership",
@@ -535,7 +535,7 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 1: Malliddon's Prophecy",
+		"set": "Malliddon's Prophecy",
 		"abilities": [
 			{
 				"name": "Scout Leadership",
@@ -564,7 +564,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 1: Malliddon's Prophecy",
+		"set": "Malliddon's Prophecy",
 		"abilities": [
 			{
 				"name": "Disengage",
@@ -591,7 +591,7 @@
 		"points": 40,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 1: Malliddon's Prophecy",
+		"set": "Malliddon's Prophecy",
 		"abilities": [
 			{
 				"name": "Slither",
@@ -618,7 +618,7 @@
 		"points": 50,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 1: Malliddon's Prophecy",
+		"set": "Malliddon's Prophecy",
 		"abilities": [
 			{
 				"name": "Warlord Bonding",
@@ -646,7 +646,7 @@
 		"points": 55,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 1: Malliddon's Prophecy",
+		"set": "Malliddon's Prophecy",
 		"abilities": [
 			{
 				"name": "Arrow Volley Special Attack",
@@ -670,7 +670,7 @@
 		"points": 40,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 1: Malliddon's Prophecy",
+		"set": "Malliddon's Prophecy",
 		"abilities": [
 			{
 				"name": "Beast Bonding",
@@ -696,7 +696,7 @@
 		"points": 40,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 1: Malliddon's Prophecy",
+		"set": "Malliddon's Prophecy",
 		"abilities": [
 			{
 				"name": "Orc Champion Bonding",
@@ -723,7 +723,7 @@
 		"points": 75,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 2: Utgar's Rage",
+		"set": "Utgar's Rage",
 		"abilities": [
 			{
 				"name": "Relentless Assault",
@@ -750,7 +750,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 2: Utgar's Rage",
+		"set": "Utgar's Rage",
 		"abilities": [
 			{
 				"name": "A Coward's Reward",
@@ -776,7 +776,7 @@
 		"points": 50,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 2: Utgar's Rage",
+		"set": "Utgar's Rage",
 		"abilities": [
 			{
 				"name": "Paralyzing Stare 16",
@@ -800,7 +800,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 2: Utgar's Rage",
+		"set": "Utgar's Rage",
 		"abilities": [
 			{
 				"name": "Wounded Smash",
@@ -826,7 +826,7 @@
 		"points": 110,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 2: Utgar's Rage",
+		"set": "Utgar's Rage",
 		"abilities": [
 			{
 				"name": "Utgar's Orders",
@@ -857,7 +857,7 @@
 		"points": 50,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 2: Utgar's Rage",
+		"set": "Utgar's Rage",
 		"abilities": [
 			{
 				"name": "Hive Swarm",
@@ -881,7 +881,7 @@
 		"points": 70,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 2: Utgar's Rage",
+		"set": "Utgar's Rage",
 		"abilities": [
 			{
 				"name": "Human Champion Bonding",
@@ -908,7 +908,7 @@
 		"points": 25,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 2: Utgar's Rage",
+		"set": "Utgar's Rage",
 		"abilities": [
 			{
 				"name": "Disengage",
@@ -935,7 +935,7 @@
 		"points": 70,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 2: Utgar's Rage",
+		"set": "Utgar's Rage",
 		"abilities": [
 			{
 				"name": "Wait Then Fire",
@@ -962,7 +962,7 @@
 		"points": 75,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 2: Utgar's Rage",
+		"set": "Utgar's Rage",
 		"abilities": [
 			{
 				"name": "Unleashed Fury",
@@ -986,7 +986,7 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 3: Jandar's Oath",
+		"set": "Jandar's Oath",
 		"abilities": [
 			{
 				"name": "Spear of Summoning",
@@ -1014,7 +1014,7 @@
 		"points": 65,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 3: Jandar's Oath",
+		"set": "Jandar's Oath",
 		"abilities": [
 			{
 				"name": "Shotgun Blast Special Attack",
@@ -1038,7 +1038,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 3: Jandar's Oath",
+		"set": "Jandar's Oath",
 		"abilities": [
 			{
 				"name": "Self-Destruct",
@@ -1066,7 +1066,7 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 3: Jandar's Oath",
+		"set": "Jandar's Oath",
 		"abilities": [
 			{
 				"name": "Knight and Sentinel Enhancement",
@@ -1094,7 +1094,7 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 3: Jandar's Oath",
+		"set": "Jandar's Oath",
 		"abilities": [
 			{
 				"name": "Overextend Attack",
@@ -1118,7 +1118,7 @@
 		"points": 110,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 3: Jandar's Oath",
+		"set": "Jandar's Oath",
 		"abilities": [
 			{
 				"name": "Shields of Valor",
@@ -1145,7 +1145,7 @@
 		"points": 90,
 		"figures": 3,
 		"hexes": 2,
-		"set": "Wave 3: Jandar's Oath",
+		"set": "Jandar's Oath",
 		"abilities": [
 			{
 				"name": "Wild Pack Movement",
@@ -1173,7 +1173,7 @@
 		"points": 90,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 3: Jandar's Oath",
+		"set": "Jandar's Oath",
 		"abilities": [
 			{
 				"name": "Tough",
@@ -1197,7 +1197,7 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 3: Jandar's Oath",
+		"set": "Jandar's Oath",
 		"abilities": [
 			{
 				"name": "Stealth Armor 15",
@@ -1228,7 +1228,7 @@
 		"points": 80,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 3: Jandar's Oath",
+		"set": "Jandar's Oath",
 		"abilities": [
 			{
 				"name": "Highland Fury",
@@ -1256,7 +1256,7 @@
 		"points": 80,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 3: Jandar's Oath",
+		"set": "Jandar's Oath",
 		"abilities": [
 			{
 				"name": "Shaolin Assault",
@@ -1283,7 +1283,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 4: Zanafor's Discovery",
+		"set": "Zanafor's Discovery",
 		"abilities": [
 			{
 				"name": "Improved Cyberclaw",
@@ -1311,7 +1311,7 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 4: Zanafor's Discovery",
+		"set": "Zanafor's Discovery",
 		"abilities": [
 			{
 				"name": "First Assault 3",
@@ -1338,7 +1338,7 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 4: Zanafor's Discovery",
+		"set": "Zanafor's Discovery",
 		"abilities": [
 			{
 				"name": "Disciplined Influence",
@@ -1366,7 +1366,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 4: Zanafor's Discovery",
+		"set": "Zanafor's Discovery",
 		"abilities": [
 			{
 				"name": "Rod of Negation",
@@ -1390,7 +1390,7 @@
 		"points": 140,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 4: Zanafor's Discovery",
+		"set": "Zanafor's Discovery",
 		"abilities": [
 			{
 				"name": "Stare of Store",
@@ -1414,7 +1414,7 @@
 		"points": 75,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 4: Zanafor's Discovery",
+		"set": "Zanafor's Discovery",
 		"abilities": [
 			{
 				"name": "Shotgun Blast Special Attack",
@@ -1438,7 +1438,7 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 4: Zanafor's Discovery",
+		"set": "Zanafor's Discovery",
 		"abilities": [
 			{
 				"name": "Double Attack",
@@ -1461,7 +1461,7 @@
 		"points": 60,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 4: Zanafor's Discovery",
+		"set": "Zanafor's Discovery",
 		"abilities": [
 			{
 				"name": "Ullar Enhanced Rifle Special Attack",
@@ -1489,7 +1489,7 @@
 		"points": 120,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 4: Zanafor's Discovery",
+		"set": "Zanafor's Discovery",
 		"abilities": [
 			{
 				"name": "Counter Strike",
@@ -1517,7 +1517,7 @@
 		"points": 70,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 4: Zanafor's Discovery",
+		"set": "Zanafor's Discovery",
 		"abilities": [
 			{
 				"name": "Frenzy",
@@ -1541,7 +1541,7 @@
 		"points": 80,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 4: Zanafor's Discovery",
+		"set": "Zanafor's Discovery",
 		"abilities": [
 			{
 				"name": "Cyberclaw",
@@ -1569,7 +1569,7 @@
 		"points": 50,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 4: Zanafor's Discovery",
+		"set": "Zanafor's Discovery",
 		"abilities": [
 			{
 				"name": "Einar Warlord Bonding",
@@ -1597,7 +1597,7 @@
 		"points": 65,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 4: Zanafor's Discovery",
+		"set": "Zanafor's Discovery",
 		"abilities": [
 			{
 				"name": "Ullar Warlord Bonding",
@@ -1624,7 +1624,7 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Giant Wave 1: Orms Return",
+		"set": "Orms Return",
 		"abilities": [
 			{
 				"name": "Carry",
@@ -1656,7 +1656,7 @@
 		"points": 210,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Giant Wave 1: Orms Return",
+		"set": "Orms Return",
 		"abilities": [
 			{
 				"name": "Counter Strike",
@@ -1684,7 +1684,7 @@
 		"points": 130,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Giant Wave 1: Orms Return",
+		"set": "Orms Return",
 		"abilities": [
 			{
 				"name": "Rapid Fire Special Attack",
@@ -1708,7 +1708,7 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Giant Wave 1: Orms Return",
+		"set": "Orms Return",
 		"abilities": [
 			{
 				"name": "Crippling Gaze 15",
@@ -1731,7 +1731,7 @@
 		"points": 160,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Giant Wave 2: Raknar's Vision",
+		"set": "Raknar's Vision",
 		"abilities": [
 			{
 				"name": "Hive Supremacy",
@@ -1758,7 +1758,7 @@
 		"points": 210,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Giant Wave 2: Raknar's Vision",
+		"set": "Raknar's Vision",
 		"abilities": [
 			{
 				"name": "Poisonous Acid Breath",
@@ -1785,7 +1785,7 @@
 		"points": 225,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Giant Wave 2: Raknar's Vision",
+		"set": "Raknar's Vision",
 		"abilities": [
 			{
 				"name": "Wild Swing Special Attack",
@@ -1813,7 +1813,7 @@
 		"points": 180,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Giant Wave 2: Raknar's Vision",
+		"set": "Raknar's Vision",
 		"abilities": [
 			{
 				"name": "Queglix Gun Special Attack",
@@ -1836,7 +1836,7 @@
 		"points": 185,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Giant Wave 2: Raknar's Vision",
+		"set": "Raknar's Vision",
 		"abilities": [
 			{
 				"name": "Ice Shard Breath Special Attack",
@@ -1864,7 +1864,7 @@
 		"points": 40,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Giant Wave 2: Raknar's Vision",
+		"set": "Raknar's Vision",
 		"abilities": [
 			{
 				"name": "Carry",
@@ -1892,7 +1892,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Giant Wave 3: Aquilla's Alliance",
+		"set": "Aquilla's Alliance",
 		"abilities": [
 			{
 				"name": "Evil Eye Defense",
@@ -1920,7 +1920,7 @@
 		"points": 185,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Giant Wave 3: Aquilla's Alliance",
+		"set": "Aquilla's Alliance",
 		"abilities": [
 			{
 				"name": "Poison Sting Special Attack",
@@ -1947,7 +1947,7 @@
 		"points": 135,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Giant Wave 3: Aquilla's Alliance",
+		"set": "Aquilla's Alliance",
 		"abilities": [
 			{
 				"name": "Coil Crush",
@@ -1973,7 +1973,7 @@
 		"points": 185,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Giant Wave 3: Aquilla's Alliance",
+		"set": "Aquilla's Alliance",
 		"abilities": [
 			{
 				"name": "Majestic Fires Special Attack",
@@ -2001,7 +2001,7 @@
 		"points": 60,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Giant Wave 3: Aquilla's Alliance",
+		"set": "Aquilla's Alliance",
 		"abilities": [
 			{
 				"name": "Deadly Shot",
@@ -2025,7 +2025,7 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Swarm of the Marro",
+		"set": "Swarm of the Marro",
 		"abilities": [
 			{
 				"name": "Whirlwind Assault",
@@ -2056,7 +2056,7 @@
 		"points": 170,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Swarm of the Marro",
+		"set": "Swarm of the Marro",
 		"abilities": [
 			{
 				"name": "Thorian Speed",
@@ -2087,7 +2087,7 @@
 		"points": 160,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Swarm of the Marro",
+		"set": "Swarm of the Marro",
 		"abilities": [
 			{
 				"name": "Dragon Healing",
@@ -2115,7 +2115,7 @@
 		"points": 150,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Master Set: Swarm of the Marro",
+		"set": "Swarm of the Marro",
 		"abilities": [
 			{
 				"name": "Machine Pistol Special Attack",
@@ -2143,7 +2143,7 @@
 		"points": 60,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Swarm of the Marro",
+		"set": "Swarm of the Marro",
 		"abilities": [
 			{
 				"name": "Concentrated Will",
@@ -2174,7 +2174,7 @@
 		"points": 50,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Master Set: Swarm of the Marro",
+		"set": "Swarm of the Marro",
 		"abilities": [
 			{
 				"name": "Swamp Water Strength",
@@ -2200,7 +2200,7 @@
 		"points": 160,
 		"figures": 1,
 		"hexes": 6,
-		"set": "Master Set: Swarm of the Marro",
+		"set": "Swarm of the Marro",
 		"abilities": [
 			{
 				"name": "Hive Mind",
@@ -2228,7 +2228,7 @@
 		"points": 30,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Master Set: Swarm of the Marro",
+		"set": "Swarm of the Marro",
 		"abilities": [
 			{
 				"name": "Hivelord Life Bonding",
@@ -2255,7 +2255,7 @@
 		"points": 60,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Master Set: Swarm of the Marro",
+		"set": "Swarm of the Marro",
 		"abilities": [
 			{
 				"name": "Stinger Drain",
@@ -2278,7 +2278,7 @@
 		"points": 220,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Master Set: Swarm of the Marro",
+		"set": "Swarm of the Marro",
 		"abilities": [
 			{
 				"name": "Trample Stomp",
@@ -2302,7 +2302,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Battle for the Underdark",
+		"set": "Battle for the Underdark",
 		"abilities": [
 			{
 				"name": "Turn Undead Special Attack",
@@ -2333,7 +2333,7 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Battle for the Underdark",
+		"set": "Battle for the Underdark",
 		"abilities": [
 			{
 				"name": "+2 Broadsword",
@@ -2364,7 +2364,7 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Battle for the Underdark",
+		"set": "Battle for the Underdark",
 		"abilities": [
 			{
 				"name": "Fire Blast Special Attack",
@@ -2392,7 +2392,7 @@
 		"points": 60,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Battle for the Underdark",
+		"set": "Battle for the Underdark",
 		"abilities": [
 			{
 				"name": "Sneak Attack 2",
@@ -2424,7 +2424,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Master Set: Battle for the Underdark",
+		"set": "Battle for the Underdark",
 		"abilities": [
 			{
 				"name": "Lolth's Wrath Special Attack",
@@ -2452,7 +2452,7 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Master Set: Battle for the Underdark",
+		"set": "Battle for the Underdark",
 		"abilities": [
 			{
 				"name": "Blood Frenzy",
@@ -2480,7 +2480,7 @@
 		"points": 70,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Master Set: Battle for the Underdark",
+		"set": "Battle for the Underdark",
 		"abilities": [
 			{
 				"name": "Poison Weapons",
@@ -2508,7 +2508,7 @@
 		"points": 120,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 5: Thora's Vengeance",
+		"set": "Thora's Vengeance",
 		"abilities": [
 			{
 				"name": "Smoke Powder 13",
@@ -2540,7 +2540,7 @@
 		"points": 200,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 5: Thora's Vengeance",
+		"set": "Thora's Vengeance",
 		"abilities": [
 			{
 				"name": "Gladiator Inspiration:",
@@ -2564,7 +2564,7 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 5: Thora's Vengeance",
+		"set": "Thora's Vengeance",
 		"abilities": [
 			{
 				"name": "One Shield Defense",
@@ -2588,7 +2588,7 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 5: Thora's Vengeance",
+		"set": "Thora's Vengeance",
 		"abilities": [
 			{
 				"name": "Net Trip 14",
@@ -2612,7 +2612,7 @@
 		"points": 110,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 5: Thora's Vengeance",
+		"set": "Thora's Vengeance",
 		"abilities": [
 			{
 				"name": "Disappearing Ninja",
@@ -2642,7 +2642,7 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 5: Thora's Vengeance",
+		"set": "Thora's Vengeance",
 		"abilities": [
 			{
 				"name": "Charging Assault",
@@ -2670,7 +2670,7 @@
 		"points": 60,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 5: Thora's Vengeance",
+		"set": "Thora's Vengeance",
 		"abilities": [
 			{
 				"name": "Gladiatron Movement Bonding",
@@ -2698,7 +2698,7 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 2,
-		"set": "Wave 5: Thora's Vengeance",
+		"set": "Thora's Vengeance",
 		"abilities": [
 			{
 				"name": "Maul",
@@ -2722,7 +2722,7 @@
 		"points": 50,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 5: Thora's Vengeance",
+		"set": "Thora's Vengeance",
 		"abilities": [
 			{
 				"name": "Defensive Agility",
@@ -2746,7 +2746,7 @@
 		"points": 30,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 5: Thora's Vengeance",
+		"set": "Thora's Vengeance",
 		"abilities": [
 			{
 				"name": "Scatter",
@@ -2776,7 +2776,7 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 6: Dawn of Darkness",
+		"set": "Dawn of Darkness",
 		"abilities": [
 			{
 				"name": "Quick Release Special Attack",
@@ -2804,7 +2804,7 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 6: Dawn of Darkness",
+		"set": "Dawn of Darkness",
 		"abilities": [
 			{
 				"name": "Overextend Attack",
@@ -2832,7 +2832,7 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 6: Dawn of Darkness",
+		"set": "Dawn of Darkness",
 		"abilities": [
 			{
 				"name": "Gift of the Empress Aura",
@@ -2860,7 +2860,7 @@
 		"points": 130,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 6: Dawn of Darkness",
+		"set": "Dawn of Darkness",
 		"abilities": [
 			{
 				"name": "Mind Shackle 19",
@@ -2888,7 +2888,7 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 6: Dawn of Darkness",
+		"set": "Dawn of Darkness",
 		"abilities": [
 			{
 				"name": "Helm of Mitonsoul Aura",
@@ -2916,7 +2916,7 @@
 		"points": 140,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 6: Dawn of Darkness",
+		"set": "Dawn of Darkness",
 		"abilities": [
 			{
 				"name": "Double Attack",
@@ -2943,7 +2943,7 @@
 		"points": 65,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 6: Dawn of Darkness",
+		"set": "Dawn of Darkness",
 		"abilities": [
 			{
 				"name": "Counter Strike",
@@ -2967,7 +2967,7 @@
 		"points": 70,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 6: Dawn of Darkness",
+		"set": "Dawn of Darkness",
 		"abilities": [
 			{
 				"name": "Orc Champion Bonding",
@@ -2994,7 +2994,7 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 6: Dawn of Darkness",
+		"set": "Dawn of Darkness",
 		"abilities": [
 			{
 				"name": "Soul Devour",
@@ -3022,7 +3022,7 @@
 		"points": 60,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 6: Dawn of Darkness",
+		"set": "Dawn of Darkness",
 		"abilities": [
 			{
 				"name": "Horde Movement",
@@ -3054,7 +3054,7 @@
 		"points": 150,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 7: Fields of Valor",
+		"set": "Fields of Valor",
 		"abilities": [
 			{
 				"name": "Life Drain",
@@ -3086,7 +3086,7 @@
 		"points": 45,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 7: Fields of Valor",
+		"set": "Fields of Valor",
 		"abilities": [
 			{
 				"name": "Life Drain",
@@ -3122,7 +3122,7 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 7: Fields of Valor",
+		"set": "Fields of Valor",
 		"abilities": [
 			{
 				"name": "Evisceraxe Special Attack",
@@ -3148,7 +3148,7 @@
 		"points": 10,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 7: Fields of Valor",
+		"set": "Fields of Valor",
 		"abilities": [
 			{
 				"name": "Vanish 9",
@@ -3178,7 +3178,7 @@
 		"points": 20,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 7: Fields of Valor",
+		"set": "Fields of Valor",
 		"abilities": [
 			{
 				"name": "Strength of Oak Aura 1",
@@ -3201,7 +3201,7 @@
 		"points": 50,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 7: Fields of Valor",
+		"set": "Fields of Valor",
 		"abilities": [
 			{
 				"name": "Life Drain",
@@ -3233,7 +3233,7 @@
 		"points": 50,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 7: Fields of Valor",
+		"set": "Fields of Valor",
 		"abilities": [
 			{
 				"name": "Iskra's Summoning",
@@ -3265,7 +3265,7 @@
 		"points": 20,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 7: Fields of Valor",
+		"set": "Fields of Valor",
 		"abilities": [
 			{
 				"name": "Life Drain",
@@ -3297,7 +3297,7 @@
 		"points": 60,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 7: Fields of Valor",
+		"set": "Fields of Valor",
 		"abilities": [
 			{
 				"name": "Wait Then Fire",
@@ -3320,7 +3320,7 @@
 		"points": 40,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 7: Fields of Valor",
+		"set": "Fields of Valor",
 		"abilities": [
 			{
 				"name": "Encircle Special Attack",
@@ -3344,7 +3344,7 @@
 		"points": 120,
 		"figures": 3,
 		"hexes": 2,
-		"set": "Wave 7: Fields of Valor",
+		"set": "Fields of Valor",
 		"abilities": [
 			{
 				"name": "Galloping Charge",
@@ -3376,7 +3376,7 @@
 		"points": 150,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 8: Defenders of Kinsland",
+		"set": "Defenders of Kinsland",
 		"abilities": [
 			{
 				"name": "Knight's Courage",
@@ -3407,7 +3407,7 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 8: Defenders of Kinsland",
+		"set": "Defenders of Kinsland",
 		"abilities": [
 			{
 				"name": "Phantom Walk",
@@ -3434,7 +3434,7 @@
 		"points": 200,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 8: Defenders of Kinsland",
+		"set": "Defenders of Kinsland",
 		"abilities": [
 			{
 				"name": "Kato Katsuro's Command",
@@ -3458,7 +3458,7 @@
 		"points": 10,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 8: Defenders of Kinsland",
+		"set": "Defenders of Kinsland",
 		"abilities": [
 			{
 				"name": "Tricky Speed 4",
@@ -3488,7 +3488,7 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 8: Defenders of Kinsland",
+		"set": "Defenders of Kinsland",
 		"abilities": [
 			{
 				"name": "Fire Strike Special Attack",
@@ -3512,7 +3512,7 @@
 		"points": 150,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 8: Defenders of Kinsland",
+		"set": "Defenders of Kinsland",
 		"abilities": [
 			{
 				"name": "Mind Link",
@@ -3540,7 +3540,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 8: Defenders of Kinsland",
+		"set": "Defenders of Kinsland",
 		"abilities": [
 			{
 				"name": "Rain of Flame Special Attack",
@@ -3564,7 +3564,7 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 8: Defenders of Kinsland",
+		"set": "Defenders of Kinsland",
 		"abilities": [
 			{
 				"name": "Elven Summoning Spell",
@@ -3588,7 +3588,7 @@
 		"points": 50,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 8: Defenders of Kinsland",
+		"set": "Defenders of Kinsland",
 		"abilities": [
 			{
 				"name": "Staff of Lerkintin",
@@ -3616,7 +3616,7 @@
 		"points": 75,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 8: Defenders of Kinsland",
+		"set": "Defenders of Kinsland",
 		"abilities": [
 			{
 				"name": "Wait Then Fire",
@@ -3647,7 +3647,7 @@
 		"points": 80,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 8: Defenders of Kinsland",
+		"set": "Defenders of Kinsland",
 		"abilities": [
 			{
 				"name": "Darklord Bonding",
@@ -3678,7 +3678,7 @@
 		"points": 130,
 		"figures": 3,
 		"hexes": 2,
-		"set": "Wave 8: Defenders of Kinsland",
+		"set": "Defenders of Kinsland",
 		"abilities": [
 			{
 				"name": "Marro Warlord Bonding",
@@ -3709,7 +3709,7 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 9: Blackmoon Siege",
+		"set": "Blackmoon Siege",
 		"abilities": [
 			{
 				"name": "Kyrie Leadership",
@@ -3740,7 +3740,7 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 9: Blackmoon Siege",
+		"set": "Blackmoon Siege",
 		"abilities": [
 			{
 				"name": "Deadly Strike",
@@ -3770,7 +3770,7 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 9: Blackmoon Siege",
+		"set": "Blackmoon Siege",
 		"abilities": [
 			{
 				"name": "Mind Blast Special Attack",
@@ -3802,7 +3802,7 @@
 		"points": 50,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 9: Blackmoon Siege",
+		"set": "Blackmoon Siege",
 		"abilities": [
 			{
 				"name": "Tracking",
@@ -3833,7 +3833,7 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 9: Blackmoon Siege",
+		"set": "Blackmoon Siege",
 		"abilities": [
 			{
 				"name": "Ninjutsu Barrage Special Attack",
@@ -3860,7 +3860,7 @@
 		"points": 50,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 9: Blackmoon Siege",
+		"set": "Blackmoon Siege",
 		"abilities": [
 			{
 				"name": "Cell Divide",
@@ -3887,7 +3887,7 @@
 		"points": 110,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 9: Blackmoon Siege",
+		"set": "Blackmoon Siege",
 		"abilities": [
 			{
 				"name": "Combined Arbalest",
@@ -3915,7 +3915,7 @@
 		"points": 70,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 9: Blackmoon Siege",
+		"set": "Blackmoon Siege",
 		"abilities": [
 			{
 				"name": "Dwarven Strategic Bonding",
@@ -3947,7 +3947,7 @@
 		"points": 40,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 9: Blackmoon Siege",
+		"set": "Blackmoon Siege",
 		"abilities": [
 			{
 				"name": "Circuitry Overload",
@@ -3979,7 +3979,7 @@
 		"points": 70,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 9: Blackmoon Siege",
+		"set": "Blackmoon Siege",
 		"abilities": [
 			{
 				"name": "Battle Fury",
@@ -4010,7 +4010,7 @@
 		"points": 70,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 9: Blackmoon Siege",
+		"set": "Blackmoon Siege",
 		"abilities": [
 			{
 				"name": "Human Gladiator Bonding",
@@ -4038,7 +4038,7 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 10: Valkrill's Gambit",
+		"set": "Valkrill's Gambit",
 		"abilities": [
 			{
 				"name": "Blind Rage Special Attack",
@@ -4066,7 +4066,7 @@
 		"points": 50,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 10: Valkrill's Gambit",
+		"set": "Valkrill's Gambit",
 		"abilities": [
 			{
 				"name": "Disengage",
@@ -4096,7 +4096,7 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 10: Valkrill's Gambit",
+		"set": "Valkrill's Gambit",
 		"abilities": [
 			{
 				"name": "Slither",
@@ -4127,7 +4127,7 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 10: Valkrill's Gambit",
+		"set": "Valkrill's Gambit",
 		"abilities": [
 			{
 				"name": "Rock Throw",
@@ -4159,7 +4159,7 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 10: Valkrill's Gambit",
+		"set": "Valkrill's Gambit",
 		"abilities": [
 			{
 				"name": "Feral Rage",
@@ -4190,7 +4190,7 @@
 		"points": 35,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Earth Slam Special Attack",
@@ -4218,7 +4218,7 @@
 		"points": 35,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Lava Resistant",
@@ -4249,7 +4249,7 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Water Mastery",
@@ -4276,7 +4276,7 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Swirling Vortex",
@@ -4308,7 +4308,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Talon Grab",
@@ -4340,7 +4340,7 @@
 		"points": 60,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Loyalty To The Lizard King",
@@ -4368,7 +4368,7 @@
 		"points": 25,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Chain Grab",
@@ -4396,7 +4396,7 @@
 		"points": 130,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Ice Cold",
@@ -4428,7 +4428,7 @@
 		"points": 70,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Insubstantial 3",
@@ -4456,7 +4456,7 @@
 		"points": 25,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Blood Frenzy",
@@ -4484,7 +4484,7 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Hydra Heads",
@@ -4514,7 +4514,7 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Venom Ray Special Attack",
@@ -4546,7 +4546,7 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Battle Axe",
@@ -4573,7 +4573,7 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Arcane Bolt Special Attack",
@@ -4605,7 +4605,7 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Sky Watcher",
@@ -4633,7 +4633,7 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 11: Champions of the Forgotten Realms",
+		"set": "Champions of the Forgotten Realms",
 		"abilities": [
 			{
 				"name": "Combat Leader",
@@ -4664,7 +4664,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Iron Tough",
@@ -4696,7 +4696,7 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Fledgling Acid Breath",
@@ -4728,7 +4728,7 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Fledgling Ice Shards Special Attack",
@@ -4760,7 +4760,7 @@
 		"points": 35,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Fledgling Lightning Breath Special Attack",
@@ -4792,7 +4792,7 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Fledgling Fires Special Attack",
@@ -4824,7 +4824,7 @@
 		"points": 150,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Flail Hurricane",
@@ -4852,7 +4852,7 @@
 		"points": 50,
 		"figures": 4,
 		"hexes": 1,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Mob Attack",
@@ -4883,7 +4883,7 @@
 		"points": 80,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Tactical Switch",
@@ -4911,7 +4911,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Psionic Blast Special Attack",
@@ -4939,7 +4939,7 @@
 		"points": 140,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Lycanthropy",
@@ -4966,7 +4966,7 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Summon Elemental",
@@ -4994,7 +4994,7 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Dragon Breath Special Attack",
@@ -5022,7 +5022,7 @@
 		"points": 160,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Sweeping Sword Special Attack",
@@ -5054,7 +5054,7 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Force Orb Special Attack",
@@ -5086,7 +5086,7 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 12: Warriors of Eberron",
+		"set": "Warriors of Eberron",
 		"abilities": [
 			{
 				"name": "Shadow Ambush",
@@ -5117,7 +5117,7 @@
 		"points": 55,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 13: Moltenclaw's Invasion",
+		"set": "Moltenclaw's Invasion",
 		"abilities": [
 			{
 				"name": "Taskmaster Bonding",
@@ -5145,7 +5145,7 @@
 		"points": 75,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Wave 13: Moltenclaw's Invasion",
+		"set": "Moltenclaw's Invasion",
 		"abilities": [
 			{
 				"name": "Expendable Rabble ",
@@ -5173,7 +5173,7 @@
 		"points": 65,
 		"figures": 2,
 		"hexes": 1,
-		"set": "Wave 13: Moltenclaw's Invasion",
+		"set": "Moltenclaw's Invasion",
 		"abilities": [
 			{
 				"name": "Poison Cloud",
@@ -5200,7 +5200,7 @@
 		"points": 60,
 		"figures": 2,
 		"hexes": 1,
-		"set": "Wave 13: Moltenclaw's Invasion",
+		"set": "Moltenclaw's Invasion",
 		"abilities": [
 			{
 				"name": "Soul Weapons",
@@ -5228,7 +5228,7 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Wave 13: Moltenclaw's Invasion",
+		"set": "Moltenclaw's Invasion",
 		"abilities": [
 			{
 				"name": "Double Attack",
@@ -5255,7 +5255,7 @@
 		"points": 140,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 13: Moltenclaw's Invasion",
+		"set": "Moltenclaw's Invasion",
 		"abilities": [
 			{
 				"name": "Indomitable",
@@ -5287,7 +5287,7 @@
 		"points": 85,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 13: Moltenclaw's Invasion",
+		"set": "Moltenclaw's Invasion",
 		"abilities": [
 			{
 				"name": "Ice Troll Charge",
@@ -5315,7 +5315,7 @@
 		"points": 140,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 13: Moltenclaw's Invasion",
+		"set": "Moltenclaw's Invasion",
 		"abilities": [
 			{
 				"name": "Mortal Strike",
@@ -5343,7 +5343,7 @@
 		"points": 140,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 13: Moltenclaw's Invasion",
+		"set": "Moltenclaw's Invasion",
 		"abilities": [
 			{
 				"name": "Thunder Ram Assault Special Attack",
@@ -5371,7 +5371,7 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 13: Moltenclaw's Invasion",
+		"set": "Moltenclaw's Invasion",
 		"abilities": [
 			{
 				"name": "Crag of Steel",
@@ -5395,7 +5395,7 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 13: Moltenclaw's Invasion",
+		"set": "Moltenclaw's Invasion",
 		"abilities": [
 			{
 				"name": "Double Assault",
@@ -5423,7 +5423,7 @@
 		"points": 170,
 		"figures": 1,
 		"hexes": 1,
-		"set": "Wave 13: Moltenclaw's Invasion",
+		"set": "Moltenclaw's Invasion",
 		"abilities": [
 			{
 				"name": "Burning Breath Special Attack",
@@ -5455,7 +5455,7 @@
 		"points": 25,
 		"figures": 1,
 		"hexes": 2,
-		"set": "Terrain Set 1: Road to the Forgotten Forest",
+		"set": "Road to the Forgotten Forest",
 		"abilities": [
 			{
 				"name": "Road Strength",
@@ -5481,7 +5481,7 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Terrain Set 2: Volcarren Wasteland",
+		"set": "Volcarren Wasteland",
 		"abilities": [
 			{
 				"name": "Lava Resistant",
@@ -5511,7 +5511,7 @@
 		"points": 75,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Terrain Set 3: Thaelenk Tundra",
+		"set": "Thaelenk Tundra",
 		"abilities": [
 			{
 				"name": "Glacier Traverse",
@@ -5543,7 +5543,7 @@
 		"points": 40,
 		"figures": 3,
 		"hexes": 1,
-		"set": "Terrain Set 4: Ticalla Jungle",
+		"set": "Ticalla Jungle",
 		"abilities": [
 			{
 				"name": "Climb X3",

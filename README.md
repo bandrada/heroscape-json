@@ -33,7 +33,6 @@ Heroscape data in JSON format for use in Heroscape related projects.
 ## Sets
 ```
 {
-  ids           \\ Set ID
   name          \\ Set name
   alternateName \\ Alternate set name
   type          \\ Set type
@@ -42,13 +41,22 @@ Heroscape data in JSON format for use in Heroscape related projects.
 }
 ```
 
+## Glyphs
+```
+{
+  name         \\ Glyph name
+  power        \\ Glyph power
+  description  \\ Description of power
+  duration     \\ Permanent or Temporary
+  sets         \\ Sets the glyph is from
+}
+```
+
 ## Generals
 ```
 {
-  ids        \\ General ID
   name       \\ General name
   alignment  \\ Army alignment
   set        \\ Set the general was released
 }
 ```
-

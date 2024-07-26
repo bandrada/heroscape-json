@@ -2,6 +2,10 @@
 
 Heroscape data in JSON format for use in Heroscape related projects.
 
+## Background
+
+This project was forked from [https://github.com/jesseflorig/heroscape-json](https://github.com/jesseflorig/heroscape-json) commit `7c71f8b` in order to be expanded upon. 
+
 ## Units
 ```
 {

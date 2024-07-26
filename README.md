@@ -1,4 +1,4 @@
-# HeroScape JSON
+# Heroscape JSON
 
 Heroscape data in JSON format for use in Heroscape related projects.
 

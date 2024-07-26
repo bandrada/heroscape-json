@@ -17,7 +17,6 @@
 		"points": 50,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -43,7 +42,6 @@
 		"points": 140,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -71,7 +69,6 @@
 		"points": 60,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -97,7 +94,6 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -126,7 +122,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -151,7 +146,6 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -177,7 +171,6 @@
 		"points": 50,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -203,7 +196,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -234,7 +226,6 @@
 		"points": 70,
 		"figures": 2,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -260,7 +251,6 @@
 		"points": 110,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -290,7 +280,6 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -319,7 +308,6 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -348,7 +336,6 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -378,6 +365,7 @@
 		"points": 150,
 		"figures": 1,
 		"hexes": 2,
+		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
 				"name": "Fire Line Special Attack",
@@ -406,7 +394,6 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -431,7 +418,6 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Master Set: Rise of the Valkyrie",
 		"abilities": [
 			{
@@ -461,7 +447,6 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 1: Malliddon's Prophecy",
 		"abilities": [
 			{
@@ -486,7 +471,6 @@
 		"points": 180,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 1: Malliddon's Prophecy",
 		"abilities": [
 			{
@@ -516,7 +500,6 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 1: Malliddon's Prophecy",
 		"abilities": [
 			{
@@ -546,7 +529,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 1: Malliddon's Prophecy",
 		"abilities": [
 			{
@@ -574,7 +556,6 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 1: Malliddon's Prophecy",
 		"abilities": [
 			{
@@ -605,7 +586,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 1: Malliddon's Prophecy",
 		"abilities": [
 			{
@@ -634,7 +614,6 @@
 		"points": 40,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 1: Malliddon's Prophecy",
 		"abilities": [
 			{
@@ -663,7 +642,6 @@
 		"points": 50,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 1: Malliddon's Prophecy",
 		"abilities": [
 			{
@@ -693,7 +671,6 @@
 		"points": 55,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 1: Malliddon's Prophecy",
 		"abilities": [
 			{
@@ -719,7 +696,6 @@
 		"points": 40,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 1: Malliddon's Prophecy",
 		"abilities": [
 			{
@@ -747,7 +723,6 @@
 		"points": 40,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 1: Malliddon's Prophecy",
 		"abilities": [
 			{
@@ -776,7 +751,6 @@
 		"points": 75,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 2: Utgar's Rage",
 		"abilities": [
 			{
@@ -805,7 +779,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 2: Utgar's Rage",
 		"abilities": [
 			{
@@ -833,7 +806,6 @@
 		"points": 50,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 2: Utgar's Rage",
 		"abilities": [
 			{
@@ -859,7 +831,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 2: Utgar's Rage",
 		"abilities": [
 			{
@@ -887,7 +858,6 @@
 		"points": 110,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 2: Utgar's Rage",
 		"abilities": [
 			{
@@ -920,7 +890,6 @@
 		"points": 50,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 2: Utgar's Rage",
 		"abilities": [
 			{
@@ -946,7 +915,6 @@
 		"points": 70,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 2: Utgar's Rage",
 		"abilities": [
 			{
@@ -975,7 +943,6 @@
 		"points": 25,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 2: Utgar's Rage",
 		"abilities": [
 			{
@@ -1004,7 +971,6 @@
 		"points": 70,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 2: Utgar's Rage",
 		"abilities": [
 			{
@@ -1033,7 +999,6 @@
 		"points": 75,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 2: Utgar's Rage",
 		"abilities": [
 			{
@@ -1059,7 +1024,6 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 3: Jandar's Oath",
 		"abilities": [
 			{
@@ -1089,7 +1053,6 @@
 		"points": 65,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 3: Jandar's Oath",
 		"abilities": [
 			{
@@ -1115,7 +1078,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 3: Jandar's Oath",
 		"abilities": [
 			{
@@ -1145,7 +1107,6 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 3: Jandar's Oath",
 		"abilities": [
 			{
@@ -1175,7 +1136,6 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 3: Jandar's Oath",
 		"abilities": [
 			{
@@ -1201,7 +1161,6 @@
 		"points": 110,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 3: Jandar's Oath",
 		"abilities": [
 			{
@@ -1230,7 +1189,6 @@
 		"points": 90,
 		"figures": 3,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 3: Jandar's Oath",
 		"abilities": [
 			{
@@ -1260,7 +1218,6 @@
 		"points": 90,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 3: Jandar's Oath",
 		"abilities": [
 			{
@@ -1286,7 +1243,6 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 3: Jandar's Oath",
 		"abilities": [
 			{
@@ -1319,7 +1275,6 @@
 		"points": 80,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 3: Jandar's Oath",
 		"abilities": [
 			{
@@ -1349,7 +1304,6 @@
 		"points": 80,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 3: Jandar's Oath",
 		"abilities": [
 			{
@@ -1378,7 +1332,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 4: Zanafor's Discovery",
 		"abilities": [
 			{
@@ -1408,7 +1361,6 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 4: Zanafor's Discovery",
 		"abilities": [
 			{
@@ -1437,7 +1389,6 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 4: Zanafor's Discovery",
 		"abilities": [
 			{
@@ -1467,7 +1418,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 4: Zanafor's Discovery",
 		"abilities": [
 			{
@@ -1493,7 +1443,6 @@
 		"points": 140,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 4: Zanafor's Discovery",
 		"abilities": [
 			{
@@ -1519,7 +1468,6 @@
 		"points": 75,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 4: Zanafor's Discovery",
 		"abilities": [
 			{
@@ -1545,7 +1493,6 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 4: Zanafor's Discovery",
 		"abilities": [
 			{
@@ -1570,7 +1517,6 @@
 		"points": 60,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 4: Zanafor's Discovery",
 		"abilities": [
 			{
@@ -1600,7 +1546,6 @@
 		"points": 120,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 4: Zanafor's Discovery",
 		"abilities": [
 			{
@@ -1630,7 +1575,6 @@
 		"points": 70,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 4: Zanafor's Discovery",
 		"abilities": [
 			{
@@ -1656,7 +1600,6 @@
 		"points": 80,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 4: Zanafor's Discovery",
 		"abilities": [
 			{
@@ -1686,7 +1629,6 @@
 		"points": 50,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 4: Zanafor's Discovery",
 		"abilities": [
 			{
@@ -1716,7 +1658,6 @@
 		"points": 65,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 4: Zanafor's Discovery",
 		"abilities": [
 			{
@@ -1745,7 +1686,6 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Giant Wave 1: Orms Return",
 		"abilities": [
 			{
@@ -1779,7 +1719,6 @@
 		"points": 210,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Giant Wave 1: Orms Return",
 		"abilities": [
 			{
@@ -1809,7 +1748,6 @@
 		"points": 130,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Giant Wave 1: Orms Return",
 		"abilities": [
 			{
@@ -1835,7 +1773,6 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Giant Wave 1: Orms Return",
 		"abilities": [
 			{
@@ -1860,7 +1797,6 @@
 		"points": 160,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Giant Wave 2: Raknar's Vision",
 		"abilities": [
 			{
@@ -1889,7 +1825,6 @@
 		"points": 210,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Giant Wave 2: Raknar's Vision",
 		"abilities": [
 			{
@@ -1918,7 +1853,6 @@
 		"points": 225,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Giant Wave 2: Raknar's Vision",
 		"abilities": [
 			{
@@ -1948,7 +1882,6 @@
 		"points": 180,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Giant Wave 2: Raknar's Vision",
 		"abilities": [
 			{
@@ -1973,7 +1906,6 @@
 		"points": 185,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Giant Wave 2: Raknar's Vision",
 		"abilities": [
 			{
@@ -2003,7 +1935,6 @@
 		"points": 40,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Giant Wave 2: Raknar's Vision",
 		"abilities": [
 			{
@@ -2033,7 +1964,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Giant Wave 3: Aquilla's Alliance",
 		"abilities": [
 			{
@@ -2063,7 +1993,6 @@
 		"points": 185,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Giant Wave 3: Aquilla's Alliance",
 		"abilities": [
 			{
@@ -2092,7 +2021,6 @@
 		"points": 135,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Giant Wave 3: Aquilla's Alliance",
 		"abilities": [
 			{
@@ -2120,7 +2048,6 @@
 		"points": 185,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Giant Wave 3: Aquilla's Alliance",
 		"abilities": [
 			{
@@ -2150,7 +2077,6 @@
 		"points": 60,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Giant Wave 3: Aquilla's Alliance",
 		"abilities": [
 			{
@@ -2176,7 +2102,6 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Swarm of the Marro",
 		"abilities": [
 			{
@@ -2209,7 +2134,6 @@
 		"points": 170,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Swarm of the Marro",
 		"abilities": [
 			{
@@ -2242,7 +2166,6 @@
 		"points": 160,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Swarm of the Marro",
 		"abilities": [
 			{
@@ -2272,7 +2195,6 @@
 		"points": 150,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Master Set: Swarm of the Marro",
 		"abilities": [
 			{
@@ -2302,7 +2224,6 @@
 		"points": 60,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Swarm of the Marro",
 		"abilities": [
 			{
@@ -2335,7 +2256,6 @@
 		"points": 50,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Swarm of the Marro",
 		"abilities": [
 			{
@@ -2363,7 +2283,6 @@
 		"points": 160,
 		"figures": 1,
 		"hexes": 6,
-		"spaces": 0,
 		"set": "Master Set: Swarm of the Marro",
 		"abilities": [
 			{
@@ -2393,7 +2312,6 @@
 		"points": 30,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Swarm of the Marro",
 		"abilities": [
 			{
@@ -2422,7 +2340,6 @@
 		"points": 60,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Swarm of the Marro",
 		"abilities": [
 			{
@@ -2447,7 +2364,6 @@
 		"points": 220,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Master Set: Swarm of the Marro",
 		"abilities": [
 			{
@@ -2473,7 +2389,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Battle for the Underdark",
 		"abilities": [
 			{
@@ -2506,7 +2421,6 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Battle for the Underdark",
 		"abilities": [
 			{
@@ -2539,7 +2453,6 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Battle for the Underdark",
 		"abilities": [
 			{
@@ -2569,7 +2482,6 @@
 		"points": 60,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Battle for the Underdark",
 		"abilities": [
 			{
@@ -2603,7 +2515,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Battle for the Underdark",
 		"abilities": [
 			{
@@ -2633,7 +2544,6 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Master Set: Battle for the Underdark",
 		"abilities": [
 			{
@@ -2663,7 +2573,6 @@
 		"points": 70,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Master Set: Battle for the Underdark",
 		"abilities": [
 			{
@@ -2693,7 +2602,6 @@
 		"points": 120,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 5: Thora's Vengeance",
 		"abilities": [
 			{
@@ -2727,7 +2635,6 @@
 		"points": 200,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 5: Thora's Vengeance",
 		"abilities": [
 			{
@@ -2753,7 +2660,6 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 5: Thora's Vengeance",
 		"abilities": [
 			{
@@ -2779,7 +2685,6 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 5: Thora's Vengeance",
 		"abilities": [
 			{
@@ -2805,7 +2710,6 @@
 		"points": 110,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 5: Thora's Vengeance",
 		"abilities": [
 			{
@@ -2837,7 +2741,6 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 5: Thora's Vengeance",
 		"abilities": [
 			{
@@ -2867,7 +2770,6 @@
 		"points": 60,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 5: Thora's Vengeance",
 		"abilities": [
 			{
@@ -2897,7 +2799,6 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 5: Thora's Vengeance",
 		"abilities": [
 			{
@@ -2923,7 +2824,6 @@
 		"points": 50,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 5: Thora's Vengeance",
 		"abilities": [
 			{
@@ -2949,7 +2849,6 @@
 		"points": 30,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 5: Thora's Vengeance",
 		"abilities": [
 			{
@@ -2981,7 +2880,6 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 6: Dawn of Darkness",
 		"abilities": [
 			{
@@ -3011,7 +2909,6 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 6: Dawn of Darkness",
 		"abilities": [
 			{
@@ -3041,7 +2938,6 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 6: Dawn of Darkness",
 		"abilities": [
 			{
@@ -3071,7 +2967,6 @@
 		"points": 130,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 6: Dawn of Darkness",
 		"abilities": [
 			{
@@ -3101,7 +2996,6 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 6: Dawn of Darkness",
 		"abilities": [
 			{
@@ -3131,7 +3025,6 @@
 		"points": 140,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 6: Dawn of Darkness",
 		"abilities": [
 			{
@@ -3160,7 +3053,6 @@
 		"points": 65,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 6: Dawn of Darkness",
 		"abilities": [
 			{
@@ -3186,7 +3078,6 @@
 		"points": 70,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 6: Dawn of Darkness",
 		"abilities": [
 			{
@@ -3215,7 +3106,6 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 6: Dawn of Darkness",
 		"abilities": [
 			{
@@ -3245,7 +3135,6 @@
 		"points": 60,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 6: Dawn of Darkness",
 		"abilities": [
 			{
@@ -3279,7 +3168,6 @@
 		"points": 150,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 7: Fields of Valor",
 		"abilities": [
 			{
@@ -3313,7 +3201,6 @@
 		"points": 45,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 7: Fields of Valor",
 		"abilities": [
 			{
@@ -3351,7 +3238,6 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 7: Fields of Valor",
 		"abilities": [
 			{
@@ -3379,7 +3265,6 @@
 		"points": 10,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 7: Fields of Valor",
 		"abilities": [
 			{
@@ -3411,7 +3296,6 @@
 		"points": 20,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 7: Fields of Valor",
 		"abilities": [
 			{
@@ -3436,7 +3320,6 @@
 		"points": 50,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 7: Fields of Valor",
 		"abilities": [
 			{
@@ -3470,7 +3353,6 @@
 		"points": 50,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 7: Fields of Valor",
 		"abilities": [
 			{
@@ -3504,7 +3386,6 @@
 		"points": 20,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 7: Fields of Valor",
 		"abilities": [
 			{
@@ -3538,7 +3419,6 @@
 		"points": 60,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 7: Fields of Valor",
 		"abilities": [
 			{
@@ -3563,7 +3443,6 @@
 		"points": 40,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 7: Fields of Valor",
 		"abilities": [
 			{
@@ -3589,7 +3468,6 @@
 		"points": 120,
 		"figures": 3,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 7: Fields of Valor",
 		"abilities": [
 			{
@@ -3623,7 +3501,6 @@
 		"points": 150,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 8: Defenders of Kinsland",
 		"abilities": [
 			{
@@ -3656,7 +3533,6 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 8: Defenders of Kinsland",
 		"abilities": [
 			{
@@ -3685,7 +3561,6 @@
 		"points": 200,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 8: Defenders of Kinsland",
 		"abilities": [
 			{
@@ -3711,7 +3586,6 @@
 		"points": 10,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 8: Defenders of Kinsland",
 		"abilities": [
 			{
@@ -3743,7 +3617,6 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 8: Defenders of Kinsland",
 		"abilities": [
 			{
@@ -3769,7 +3642,6 @@
 		"points": 150,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 8: Defenders of Kinsland",
 		"abilities": [
 			{
@@ -3799,7 +3671,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 8: Defenders of Kinsland",
 		"abilities": [
 			{
@@ -3825,7 +3696,6 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 8: Defenders of Kinsland",
 		"abilities": [
 			{
@@ -3851,7 +3721,6 @@
 		"points": 50,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 8: Defenders of Kinsland",
 		"abilities": [
 			{
@@ -3881,7 +3750,6 @@
 		"points": 75,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 8: Defenders of Kinsland",
 		"abilities": [
 			{
@@ -3914,7 +3782,6 @@
 		"points": 80,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 8: Defenders of Kinsland",
 		"abilities": [
 			{
@@ -3947,7 +3814,6 @@
 		"points": 130,
 		"figures": 3,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 8: Defenders of Kinsland",
 		"abilities": [
 			{
@@ -3980,7 +3846,6 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 9: Blackmoon Siege",
 		"abilities": [
 			{
@@ -4013,7 +3878,6 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 9: Blackmoon Siege",
 		"abilities": [
 			{
@@ -4045,7 +3909,6 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 9: Blackmoon Siege",
 		"abilities": [
 			{
@@ -4079,7 +3942,6 @@
 		"points": 50,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 9: Blackmoon Siege",
 		"abilities": [
 			{
@@ -4112,7 +3974,6 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 9: Blackmoon Siege",
 		"abilities": [
 			{
@@ -4141,7 +4002,6 @@
 		"points": 50,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 9: Blackmoon Siege",
 		"abilities": [
 			{
@@ -4170,7 +4030,6 @@
 		"points": 110,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 9: Blackmoon Siege",
 		"abilities": [
 			{
@@ -4200,7 +4059,6 @@
 		"points": 70,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 9: Blackmoon Siege",
 		"abilities": [
 			{
@@ -4234,7 +4092,6 @@
 		"points": 40,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 9: Blackmoon Siege",
 		"abilities": [
 			{
@@ -4268,7 +4125,6 @@
 		"points": 70,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 9: Blackmoon Siege",
 		"abilities": [
 			{
@@ -4301,7 +4157,6 @@
 		"points": 70,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 9: Blackmoon Siege",
 		"abilities": [
 			{
@@ -4331,7 +4186,6 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 10: Valkrill's Gambit",
 		"abilities": [
 			{
@@ -4361,7 +4215,6 @@
 		"points": 50,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 10: Valkrill's Gambit",
 		"abilities": [
 			{
@@ -4393,7 +4246,6 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 10: Valkrill's Gambit",
 		"abilities": [
 			{
@@ -4426,7 +4278,6 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 10: Valkrill's Gambit",
 		"abilities": [
 			{
@@ -4460,7 +4311,6 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 10: Valkrill's Gambit",
 		"abilities": [
 			{
@@ -4493,7 +4343,6 @@
 		"points": 35,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4523,7 +4372,6 @@
 		"points": 35,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4556,7 +4404,6 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4585,7 +4432,6 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4619,7 +4465,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4653,7 +4498,6 @@
 		"points": 60,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4683,7 +4527,6 @@
 		"points": 25,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4713,7 +4556,6 @@
 		"points": 130,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4747,7 +4589,6 @@
 		"points": 70,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4777,7 +4618,6 @@
 		"points": 25,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4807,7 +4647,6 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4839,7 +4678,6 @@
 		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4873,7 +4711,6 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4902,7 +4739,6 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4936,7 +4772,6 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4966,7 +4801,6 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 11: Champions of the Forgotten Realms",
 		"abilities": [
 			{
@@ -4999,7 +4833,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5033,7 +4866,6 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5067,7 +4899,6 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5101,7 +4932,6 @@
 		"points": 35,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5135,7 +4965,6 @@
 		"points": 30,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5169,7 +4998,6 @@
 		"points": 150,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5199,7 +5027,6 @@
 		"points": 50,
 		"figures": 4,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5232,7 +5059,6 @@
 		"points": 80,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5262,7 +5088,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5292,7 +5117,6 @@
 		"points": 140,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5321,7 +5145,6 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5351,7 +5174,6 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5381,7 +5203,6 @@
 		"points": 160,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5415,7 +5236,6 @@
 		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5449,7 +5269,6 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 12: Warriors of Eberron",
 		"abilities": [
 			{
@@ -5482,7 +5301,6 @@
 		"points": 55,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 13: Moltenclaw's Invasion",
 		"abilities": [
 			{
@@ -5512,7 +5330,6 @@
 		"points": 75,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 13: Moltenclaw's Invasion",
 		"abilities": [
 			{
@@ -5542,7 +5359,6 @@
 		"points": 65,
 		"figures": 2,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 13: Moltenclaw's Invasion",
 		"abilities": [
 			{
@@ -5571,7 +5387,6 @@
 		"points": 60,
 		"figures": 2,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 13: Moltenclaw's Invasion",
 		"abilities": [
 			{
@@ -5601,7 +5416,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Wave 13: Moltenclaw's Invasion",
 		"abilities": [
 			{
@@ -5630,7 +5444,6 @@
 		"points": 140,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 13: Moltenclaw's Invasion",
 		"abilities": [
 			{
@@ -5664,7 +5477,6 @@
 		"points": 85,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 13: Moltenclaw's Invasion",
 		"abilities": [
 			{
@@ -5694,7 +5506,6 @@
 		"points": 140,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 13: Moltenclaw's Invasion",
 		"abilities": [
 			{
@@ -5724,7 +5535,6 @@
 		"points": 140,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 13: Moltenclaw's Invasion",
 		"abilities": [
 			{
@@ -5754,7 +5564,6 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 13: Moltenclaw's Invasion",
 		"abilities": [
 			{
@@ -5780,7 +5589,6 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 13: Moltenclaw's Invasion",
 		"abilities": [
 			{
@@ -5810,7 +5618,6 @@
 		"points": 170,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Wave 13: Moltenclaw's Invasion",
 		"abilities": [
 			{
@@ -5844,7 +5651,6 @@
 		"points": 25,
 		"figures": 1,
 		"hexes": 2,
-		"spaces": 0,
 		"set": "Terrain Set 1: Road to the Forgotten Forest",
 		"abilities": [
 			{
@@ -5872,7 +5678,6 @@
 		"points": 100,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Terrain Set 2: Volcarren Wasteland",
 		"abilities": [
 			{
@@ -5904,7 +5709,6 @@
 		"points": 75,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Terrain Set 3: Thaelenk Tundra",
 		"abilities": [
 			{
@@ -5938,7 +5742,6 @@
 		"points": 40,
 		"figures": 3,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Terrain Set 4: Ticalla Jungle",
 		"abilities": [
 			{
@@ -5971,7 +5774,6 @@
 		"points": 140,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Special Release",
 		"abilities": [
 			{
@@ -6004,7 +5806,6 @@
 		"points": 120,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Special Release",
 		"abilities": [
 			{
@@ -6037,7 +5838,6 @@
 		"points": 105,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Special Release: Crest of the Valkyrie",
 		"abilities": [
 			{
@@ -6066,7 +5866,6 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Special Release: Crest of the Valkyrie",
 		"abilities": [
 			{
@@ -6096,7 +5895,6 @@
 		"points": 110,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Special Release: Crest of the Valkyrie",
 		"abilities": [
 			{
@@ -6126,7 +5924,6 @@
 		"points": 130,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Special Release: Crest of the Valkyrie",
 		"abilities": [
 			{
@@ -6156,7 +5953,6 @@
 		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Special Release: Crest of the Valkyrie",
 		"abilities": [
 			{
@@ -6186,7 +5982,6 @@
 		"points": 60,
 		"figures": 1,
 		"hexes": 1,
-		"spaces": 0,
 		"set": "Special Release: Crest of the Valkyrie",
 		"abilities": [
 			{

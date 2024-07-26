@@ -74,7 +74,7 @@
 					"When rolling defense dice against a normal attack from an adjacent attacking figure, all excess shields count as unblockable hits on the attacking figure. This power does not work against other Samurai."}]
 	},
 	{
-        "name": "Sgt. Drake Alexander (1)",
+        "name": "Sgt. Drake Alexander (RotV)",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",
@@ -307,7 +307,7 @@
 				"description": "All friendly figures adjacent to Thorgrim add 1 die their defense."}]
 	},
 	{
-        "name": "Raelin the Kyrie Warrior (1)",
+        "name": "Raelin the Kyrie Warrior (RotV)",
 		"general": "jandar",
 		"race": "kyrie",
 		"type": "unique hero",
@@ -2009,7 +2009,7 @@
 					"When attacking with Zetacron, each skull rolled counts for one additional hit. (ie: double the number of skulls rolled)"}]
 	},
 	{
-        "name": "Raelin the Kyrie Warrior (2)",
+        "name": "Raelin the Kyrie Warrior (SotM)",
 		"general": "jandar",
 		"race": "kyrie",
 		"type": "unique hero",
@@ -2040,7 +2040,7 @@
 					"When counting spaces for Raelin's movement, ignore elevations. Raelin may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Raelin starts to fly, if she is engaged she will take any leaving engagement attacks."}]
 	},
 	{
-        "name": "Sgt. Drake Alexander (2)",
+        "name": "Sgt. Drake Alexander (SotM)",
 		"general": "jandar",
 		"race": "human",
 		"type": "unique hero",

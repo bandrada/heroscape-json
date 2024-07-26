@@ -2,43 +2,36 @@
   {
     "id": "aquilla",
     "name": "Aquilla",
-    "alignment": "righteous",
-    "set": "Master Set: Swarm of the Marro"
+    "alignment": "righteous"
   },
   {
     "id": "einar",
     "name": "Einar",
-    "alignment": "righteous",
-    "set": "Master Set: Rise of the Valkyrie"
+    "alignment": "righteous"
   },
   {
     "id": "jandar",
     "name": "Jandar",
-    "alignment": "righteous",
-    "set": "Master Set: Rise of the Valkyrie"
+    "alignment": "righteous"
   },
   {
     "id": "ullar",
     "name": "Ullar",
-    "alignment": "righteous",
-    "set": "Master Set: Rise of the Valkyrie"
+    "alignment": "righteous"
   },
   {
     "id": "utgar",
     "name": "Utgar",
-    "alignment": "evil",
-    "set": "Master Set: Rise of the Valkyrie"
+    "alignment": "evil"
   },
   {
     "id": "valkrill",
     "name": "Valkrill",
-    "alignment": "evil",
-    "set": "Wave 13: Moltenclaw's Invasion"
+    "alignment": "evil"
   },
   {
     "id": "vydar",
     "name": "Vydar",
-    "alignment": "righteous",
-    "set": "Master Set: Rise of the Valkyrie"
+    "alignment": "righteous"
   }
 ]

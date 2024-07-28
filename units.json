@@ -6769,126 +6769,154 @@
 		]
 	},
 	{
-        "name": "",
-		"general": "",
-		"race": "",
-		"type": "",
-		"class": "",
-		"personality": "",
-		"size": "",
+        "name": "Xiamara the Kyrie Warrior",
+		"general": "ullar",
+		"race": "kyrie",
+		"type": "unique hero",
+		"class": "warrior",
+		"personality": "noble",
+		"size": "medium",
 		"height": 5,
-		"life": 4,
+		"life": 5,
 		"move": 5,
-		"range": 7,
+		"range": 1,
 		"attack": 3,
 		"defense": 3,
-		"points": 60,
+		"points": 80,
 		"figures": 1,
 		"hexes": 1,
-		"set": "",
+		"set": "Revna's Rebuke",
 		"abilities": [
 			{
-				"name": "",
+				"name": "AMULET OF PAIVATAR",
+				"description": "When a Kyrie you control who follows Ullar withing 6 clear sight spaces of Xiamara the Kyrie Warrior receives one or more wounds, you may roll the 20-sided die. If you roll and 8-16, ignore all but one wound just received. If you roll a 17 or higher, ignore all wounds just received. Amulet of Paivatar does not affect Xiamara."
+			},
+            {
+				"name": "FLYING",
 				"description": ""
 			}
 		]
 	},
 	{
-        "name": "",
-		"general": "",
-		"race": "",
-		"type": "",
-		"class": "",
-		"personality": "",
-		"size": "",
+        "name": "Kilkorax the Kyrie Warrior",
+		"general": "revna",
+		"race": "undead",
+		"type": "unique hero",
+		"class": "warrior",
+		"personality": "terrifying",
+		"size": "medium",
 		"height": 5,
-		"life": 4,
-		"move": 5,
-		"range": 7,
-		"attack": 3,
+		"life": 5,
+		"move": 6,
+		"range": 1,
+		"attack": 4,
 		"defense": 3,
-		"points": 60,
+		"points": 95,
 		"figures": 1,
 		"hexes": 1,
-		"set": "",
+		"set": "Revna's Rebuke",
 		"abilities": [
 			{
-				"name": "",
+				"name": "WITCHCRAFT TELEKINESIS",
+				"description": "After moving and before attacking, you may choose up to 2 different Small or Medium enemy figures within 5 clear sight spaces of Kilkorax the Kyrie Warrior. One at a time, roll the 20-sided die for each chosen figure. If the chosen figure is a Squad figure and you roll and 8 or higher, you may place the chosen figure ont a same-level space adjacent to Kilkorax If the chosen figure is a Hero figure and you roll a 17 or higher, you ma yplace the chosen figure onto a same-level space adjacent to Kilkorax. Figures moved by Witchcraft Telekinesis never take leaving engagement attacks."
+			},
+            {
+				"name": "FLYING",
 				"description": ""
 			}
 		]
 	},
 	{
-        "name": "",
-		"general": "",
-		"race": "",
-		"type": "",
-		"class": "",
-		"personality": "",
-		"size": "",
+        "name": "Glinerva the Kyrie Warrior",
+		"general": "aquilla",
+		"race": "kyrie",
+		"type": "unique hero",
+		"class": "warrior",
+		"personality": "fearsome",
+		"size": "medium",
 		"height": 5,
-		"life": 4,
-		"move": 5,
-		"range": 7,
+		"life": 5,
+		"move": 6,
+		"range": 1,
 		"attack": 3,
 		"defense": 3,
-		"points": 60,
+		"points": 90,
 		"figures": 1,
 		"hexes": 1,
-		"set": "",
+		"set": "Revna's Rebuke",
 		"abilities": [
 			{
-				"name": "",
+				"name": "HANWI'S DARKNESS",
+				"description": "When you reveal an Order Marker, you may also reveal the \"X\" Order Marker on Glinerva the Kyrie Warrior to activate Hanwi's Darkness. Until you next reveal an Order Marker, Glinerva and all Small, Medium, and Large figures within 5 spaces of her cannot target or be targeted by non-adjacent figures with a normal or special attack."
+			},
+            {
+				"name": "CONCEALMENT 17",
+				"description": "If Glinerva is targeted and receives one or more wounds from an attacking figure who is not adjacent, you must roll the 20-sided die. Count the minimum number of spaces between the attacker and Glinerva. Add this number to your die roll. If you roll a 17 or higher, ignore any wounds Glinerva just received."
+			},
+            {
+				"name": "FLYING",
 				"description": ""
 			}
 		]
 	},
 	{
-        "name": "",
-		"general": "",
-		"race": "",
-		"type": "",
-		"class": "",
-		"personality": "",
-		"size": "",
+        "name": "Mielki the Kyrie Warrior",
+		"general": "ullar",
+		"race": "kyrie",
+		"type": "unique hero",
+		"class": "warrior",
+		"personality": "inspiring",
+		"size": "medium",
 		"height": 5,
-		"life": 4,
+		"life": 5,
 		"move": 5,
-		"range": 7,
+		"range": 1,
 		"attack": 3,
-		"defense": 3,
-		"points": 60,
+		"defense": 4,
+		"points": 100,
 		"figures": 1,
 		"hexes": 1,
-		"set": "",
+		"set": "Revna's Rebuke",
 		"abilities": [
 			{
-				"name": "",
+				"name": "DOUBLE ATTACK",
+				"description": "Once per turn, after attacking with Mielki the Kyrie Warrior, she may make on additional normal attack."
+			},
+            {
+				"name": "SPEAR OF SANKARI",
+				"description": "When Mielki destroys a figure with a normal attack, you may choose a Small or Medium friendly figure within 4 clear sight spaces of Mielki. Remove a wound Marker from the chosen figure. Mielki cannot heal herself with Spear of Sankari, and it cannot be used when destroying a destructible object."
+			},
+            {
+				"name": "FLYING",
 				"description": ""
 			}
 		]
 	},
 	{
-        "name": "",
-		"general": "",
-		"race": "",
-		"type": "",
-		"class": "",
-		"personality": "",
-		"size": "",
+        "name": "Queen Qhyrion",
+		"general": "vydar",
+		"race": "kyrie",
+		"type": "unique hero",
+		"class": "queen",
+		"personality": "tricky",
+		"size": "medium",
 		"height": 5,
 		"life": 4,
-		"move": 5,
-		"range": 7,
-		"attack": 3,
-		"defense": 3,
+		"move": 4,
+		"range": 1,
+		"attack": 4,
+		"defense": 4,
 		"points": 60,
 		"figures": 1,
 		"hexes": 1,
-		"set": "",
+		"set": "Revna's Rebuke",
 		"abilities": [
 			{
-				"name": "",
+				"name": "HEART FINDER SPEAR 12",
+				"description": "Before attacking with Queen Qhyrion, you may roll the 20-sided die. If you roll a 12 or higher, a figure attacked by Queen Qhyrion may roll no more than 1 die for defense."
+			},
+            {
+				"name": "STEALTH FLYING",
 				"description": ""
 			}
 		]
